@@ -8,6 +8,11 @@
 ! Community: https://github.com/SiazFields012/SiazFillter
 ! Download: https://raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
 
+--19/01/2023-
+
+thaimanga.net##div.ads:nth-child(6)
+thaimanga.net###comments
+
 --17/01/2023--
 
 murim-manga.com###content > div.wrapper > div.dessert-frame:first-child
