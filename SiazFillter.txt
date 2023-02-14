@@ -9,6 +9,25 @@
 ! Download: https://raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
 
 
+--14/02/2024--
+
+moodtoon.com###content > div.wrapper > div.mt-ad.text-center:first-child
+moodtoon.com###ads_03
+moodtoon.com###ads_02
+moodtoon.com###ads_04
+moodtoon.com###comments
+moodtoon.com###content > div.blox.mlb.kln:first-child
+thaimanga.net##div.ads:nth-child(6)
+thaimanga.net###comments
+mangathailand.com##div.elementor.elementor-58.elementor-location-single.post-28917.post.type-post.status-publish.format-standard.hentry.category-my-female-apprentices-are-all-future-big-shots:nth-child(10) > div.elementor-element.elementor-element-d59b04d.e-con-boxed.e-con:nth-child(2) > div.e-con-inner
+mangathailand.com###ads-sticky > a:first-child
+makimaaaaa.com###content > div.blox.mlb.kln:first-child
+makimaaaaa.com###wbnn
+manhuathai.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+manhuathai.com##div.ads-float:nth-child(47) > div
+manghaha.com##div.container-fluid.text-center.mb-3:nth-child(7)
+manhuathai.com##div.ads-float:nth-child(45) > div
+
 --07/02/2023--
 
 nekopost.net##div.layout-wrapper > div.container-fluid.wrapper.light.svelte-mvqci5:last-child > div.chapter-content.svelte-mvqci5 > div.layout-helper.svelte-mvqci5:last-child
