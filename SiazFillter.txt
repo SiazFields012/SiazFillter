@@ -11,6 +11,8 @@
 
 --14/02/2024--
 
+manhwabreakup.com##div.ads-float:nth-child(40) > div
+manhwabreakup.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
 moodtoon.com###content > div.wrapper > div.mt-ad.text-center:first-child
 moodtoon.com###ads_03
 moodtoon.com###ads_02
