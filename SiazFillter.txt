@@ -10,6 +10,7 @@
 
 --13/03/20230--
 
+eye-manga.com##div.header-ads-section:nth-child(5)
 nekopost.net##div.layout-wrapper:first-child > div.container-fluid.wrapper.light.svelte-mvqci5:last-child > div.chapter-content.svelte-mvqci5 > div.layout-helper.svelte-mvqci5:last-child
 
 
