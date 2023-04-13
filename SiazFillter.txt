@@ -1,21 +1,21 @@
-! Title: SiazFillter
-! Description: SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version: V.2Y23-16.0
-! Last modified: 13 Apr 2023 23:30 +0700
-! Homepage: https://github.com/SiazFields012/SiazFillter
-! License: https://github.com/SiazFields012/SiazFillter
-! Reporting https://github.com/SiazFields012/SiazFillter
-! Community: https://github.com/SiazFields012/SiazFillter
-! Download: https://raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
+! Title:          SiazFillter
+! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
+! Version:        V.2Y23-16.0
+! Last modified:  13 Apr 2023 23:30 +0700
+! Homepage:       github.com/SiazFields012/SiazFillter
+! License:        github.com/SiazFields012/SiazFillter
+! Reporting       github.com/SiazFields012/SiazFillter
+! Community:      github.com/SiazFields012/SiazFillter
+! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
 
---13/04/20230--
+--13/04/2023--
 
 xn--q3cmiag1gmn.com##div.header-ads-section:nth-child(6)
 xn--q3cmiag1gmn.com###post-153857 > div.bixbox.episodedl:nth-child(2) > div.epwrapper > div.epcontent.entry-content:nth-child(4) > button.simplefavorite-button:last-child
 inu-manga.com##div.mainholder:nth-child(4) > div.header-ads-section:nth-child(3)
 ||romance-manga.com/wp-content/uploads/2022/09/Romance-cover.webp
 
---13/03/20230--
+--13/03/2023--
 
 eye-manga.com##div.header-ads-section:nth-child(5)
 nekopost.net##div.layout-wrapper:first-child > div.container-fluid.wrapper.light.svelte-mvqci5:last-child > div.chapter-content.svelte-mvqci5 > div.layout-helper.svelte-mvqci5:last-child
