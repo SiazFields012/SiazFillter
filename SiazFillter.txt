@@ -1,12 +1,35 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2Y23-16.0
-! Last modified:  22 Aug 2023 16:00 +0700
+! Version:        V.2Y23-17.0
+! Last modified:  09 Sep 2023 16:00 +0700
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! License:        github.com/SiazFields012/SiazFillter
 ! Reporting       github.com/SiazFields012/SiazFillter
 ! Community:      github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
+
+--09/09/2023--
+
+||4.makimaaaaa.com/*.gif
+makimaaaaa.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.kln:nth-child(3)
+makimaaaaa.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+makimaaaaa.com###wbnn
+makimaaaaa.com###comments
+makimaaaaa.com###content > div.blox.mlb.kln:first-child
+makimaaaaa.com###content > div.blox.mlb.kln:first-child
+makimaaaaa.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+makimaaaaa.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.kln:nth-child(6)
+makimaaaaa.com##* > div.chaptertags:last-child
+makimaaaaa.com###footer
+makimaaaaa.com###content > div.wrapper:last-child > div.chapterbody:first-child > div.postarea > div.bixbox:nth-child(2)
+makimaaaaa.com###content > div.wrapper:last-child > div.postbody:nth-child(2) > div.bixbox:last-child
+makimaaaaa.com###sidebar
+fairyanime.net###kosana
+manhuathai.com##div.wrap:first-child > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+manhuathai.com##div.ads-float:nth-child(40) > div
+manhuathai.com##div.ads-float:nth-child(38)
+manhuathai.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(4) > div.c-page-content.style-1.reading-content-wrap.chapter-type-text > div.content-area > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.main-col-inner:last-child > div.row:last-child
+manhuathai.com###chapter-heading
 
 --22/08/2023--
 
