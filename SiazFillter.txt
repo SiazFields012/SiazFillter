@@ -1,12 +1,29 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2Y23-17.0
-! Last modified:  09 Sep 2023 16:00 +0700
+! Version:        V.2Y23-17.5
+! Last modified:  14 Sep 2023 16:00 +0700
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! License:        github.com/SiazFields012/SiazFillter
 ! Reporting       github.com/SiazFields012/SiazFillter
 ! Community:      github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
+
+--14/09/2023--
+
+romance-manga.com##div.rm-ads:nth-child(4)
+romance-manga.com##footer:nth-child(8)
+romance-manga.com##footer:nth-child(10)
+romance-manga.com##main:nth-child(5) > div.content:first-child > div.container:last-child > div.reader-area:first-child > p > img:last-child
+romance-manga.com##main:nth-child(5) > div.content:first-child > div.container:last-child > div.comment.single:last-child
+romance-manga.com##main:nth-child(5) > div.content:first-child > div.info-chapter:nth-child(2)
+romance-manga.com###navigation
+romance-manga.com###ads_03
+romance-manga.com###ads_02
+romance-manga.com##main:nth-child(4) > div.content > div.container:last-child > center:nth-child(2)
+romance-manga.com##main:nth-child(4) > div.content > div.container:last-child > h3:first-child
+romance-manga.com##footer:nth-child(6) > div.footertop:first-child
+romance-manga.com##footer:nth-child(6)
+romance-manga.com##main:nth-child(5) > div.content > div.series > div.container:last-child > div.series-flex > div.series-flexright:last-child > div.comment:last-child
 
 --09/09/2023--
 
