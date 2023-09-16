@@ -1,12 +1,30 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2Y23-17.5
-! Last modified:  14 Sep 2023 16:00 +0700
+! Version:        V.2Y23-18.0
+! Last modified:  16 Sep 2023 10:00 +0700
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! License:        github.com/SiazFields012/SiazFillter
 ! Reporting       github.com/SiazFields012/SiazFillter
 ! Community:      github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
+
+--16/09/2023--
+
+miku-manga.com###sidebar > div.section:last-child
+miku-manga.com###content > div.wrapper > div.postbody:nth-child(2) > div.kln:first-child > center
+miku-manga.com###footer
+miku-manga.com##* > div.bixbox:nth-child(3)
+miku-manga.com###comments
+miku-manga.com##* > div.main-info:first-child > div.info-right:last-child > div.ts-breadcrumb.bixbox:last-child
+miku-manga.com##* > div.main-info:first-child > div.info-left:first-child > div.info-left-margin > div.tsinfo.bixbox:last-child
+miku-manga.com##* > div.main-info:first-child > div.info-left:first-child > div.info-left-margin > div.rating.bixbox:nth-child(5)
+miku-manga.com##* > div.main-info:first-child > div.info-right:last-child > div.bixbox.image-list:nth-child(2)
+miku-manga.com##* > div.chaptertags:last-child
+miku-manga.com##* > img.ts-main-image.lazy.loaded.curdown:last-child
+miku-manga.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+miku-manga.com##* > div.ts-breadcrumb.bixbox:nth-child(2)
+romance-manga.com##main:nth-child(5) > div.content > div.series > div.container:last-child > div.series-flex > div.series-flexleft:first-child > div.series-info:last-child
+romance-manga.com##a.scrollToTop:nth-child(21)
 
 --14/09/2023--
 
