@@ -10,6 +10,7 @@
 
 --16/09/2023--
 
+miku-manga.com###content > div.wrapper > div.chapterbody:first-child > div.postarea > div.bixbox:nth-child(2)
 miku-manga.com###sidebar > div.section:last-child
 miku-manga.com###content > div.wrapper > div.postbody:nth-child(2) > div.kln:first-child > center
 miku-manga.com###footer
