@@ -1,12 +1,29 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2Y23-18.0
-! Last modified:  16 Sep 2023 10:00 +0700
+! Version:        V.2Y23-18.5
+! Last modified:  01 Oct 2023 18:00 +0700
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! License:        github.com/SiazFields012/SiazFillter
 ! Reporting       github.com/SiazFields012/SiazFillter
 ! Community:      github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
+
+--01/10/2023--
+
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com###slider-l
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com###slider-r
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com###slider-r > a:last-child > img
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##div.uk-container.uk-container-expand:nth-child(15)
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##* > div.uk-container.uk-container-small:last-child > div.colophon-message-body.column:first-child > center:nth-child(3)
+||xn--72cmtudp6e8ad1dzef5f7bwc2an.com/*.gif
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com###colophon-ets\ extras
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##section.uk-section.uk-section-muted:nth-child(17) > div.uk-container > center:first-child
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##* > div.uk-container.uk-container-small:last-child > center:last-child
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##section.uk-section.uk-article:nth-child(16) > hr.uk-divider-icon:last-child
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##footer.inside-footer:nth-child(18)
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com###slider-f
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##footer.inside-footer:nth-child(8)
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##footer.inside-footer:nth-child(8) > div.uk-container.uk-container-expand.uk-background-secondary
 
 --16/09/2023--
 
