@@ -1,12 +1,31 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2Y23-18.5
-! Last modified:  01 Oct 2023 18:00 +0700
+! Version:        V.2Y23-19.00
+! Last modified:  19 Nov 2023 18:00 +0700
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! License:        github.com/SiazFields012/SiazFillter
 ! Reporting       github.com/SiazFields012/SiazFillter
 ! Community:      github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
+
+--19/11/2023--
+
+doujin-th.com##div.container:nth-child(4)
+doujin-th.com###bs-navbar > ul.nav.navbar-nav:first-child > li.hidden-xs:last-child
+doujin89.com###sidebar > div.widget_text.section:first-child
+doujin89.com###comments
+doujin89.com###content > div.wrapper > div.bigcover:first-child
+||doujin89.com/wp-content/uploads/2023/08/bg89.jpg
+miku-manga.com###content > div.wrapper > div.bigcover:first-child > div.bigbanner.img-blur
+miku-manga.com###titlemove > span.alternative:last-child
+mangakimi.com###content > div.wrapper > div.bigcover:first-child
+inu-manga.com###content > div.wrapper > div.bigcover:first-child
+miku-manga.com###content > div.wrapper > div.bigcover:first-child
+spankbang.com###home > div.channels_scroll_list:first-child
+spankbang.com###home > div.videos:last-child > h2:nth-child(3)
+spankbang.com###home > div.videos:last-child > a.ft-button.ft-grad.more_videos:nth-child(5)
+spankbang.com###container > footer:last-child
+spankbang.com###home > div.videos:last-child > h2:nth-child(31) > a.h
 
 --01/10/2023--
 
