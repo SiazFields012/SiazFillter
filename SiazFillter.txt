@@ -10,6 +10,8 @@
 
 --15/12/2023
 
+doujin-th.com##div.container:nth-child(5)
+doujin-th.com##div.container:nth-child(4) > div.alert.alert-danger
 kemono.su###page > div.ad-container:nth-child(5)
 
 --19/11/2023--
