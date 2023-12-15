@@ -1,12 +1,16 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2Y23-19.00
-! Last modified:  19 Nov 2023 18:00 +0700
+! Version:        V.2Y23-19.50
+! Last modified:  15 Dec 2023
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! License:        github.com/SiazFields012/SiazFillter
 ! Reporting       github.com/SiazFields012/SiazFillter
 ! Community:      github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
+
+--15/12/2023
+
+kemono.su###page > div.ad-container:nth-child(5)
 
 --19/11/2023--
 
