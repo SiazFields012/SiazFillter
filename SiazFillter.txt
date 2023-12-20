@@ -1,14 +1,19 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2Y23-19.50
-! Last modified:  15 Dec 2023
+! Version:        V.2Y23-19.6
+! Last modified:  20 Dec 2023
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! License:        github.com/SiazFields012/SiazFillter
 ! Reporting       github.com/SiazFields012/SiazFillter
 ! Community:      github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
 
---15/12/2023
+--20/12/2023--
+
+rule34video.com###custom_list_videos_videos_list_search_items > div.spot-thumb.thumb:nth-child(16)
+rule34video.com##div:first-child > div.wrapper:nth-child(2) > div.footer:nth-child(3)
+
+--15/12/2023--
 
 doujin-th.com##div.container:nth-child(5)
 doujin-th.com##div.container:nth-child(4) > div.alert.alert-danger
