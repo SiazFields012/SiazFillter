@@ -6,6 +6,8 @@
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
 
 --27-/02/2024--
+inu-manga.com##.type, .Manhwa
+mangakimi.com##.type, .Manhwa
 mangakimi.com##.colored
 inu-manga.com##.colored
 inu-manga.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
