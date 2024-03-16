@@ -1,11 +1,18 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2K24-3.1B
+! Version:        V.2K24-3.2
 ! Last modified:  16 Mar 2024
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
 
 --16/03/2024--
+
+nekopost.net##div:first-child > div.mx-auto.dark\:text-slate-400.mt-16.lg\:mt-0:first-child > div.svelte-rn2hpa:nth-child(5)
+nekopost.net##div:first-child > div.mx-auto.dark\:text-slate-400.mt-16.lg\:mt-0:first-child > div.xl\:max-w-\[1320px\].\32 xl\:max-w-\[1420px\].w-full.svelte-otz5v0:nth-child(4) > table.w-full.mt-4.svelte-otz5v0 > tr.svelte-otz5v0 > td.lg\:min-w-\[664px\].lg\:max-w-\[700px\].w-full.lg\:px-4.xl\:px-10.svelte-otz5v0:first-child > div.px-2.lg\:px-0.svelte-otz5v0 > div.mt-4.xl\:mt-16.svelte-otz5v0:last-child
+nekopost.net##.text-2xl
+nekopost.net###readerContent > div.container.mt-0.px-2.md\:px-6.xl\:px-20 > div.grid.grid-cols-1.lg\:grid-cols-5.xl\:gap-3:last-child
+nekopost.net###readerContent > div.container.mt-0.px-2.md\:px-6.xl\:px-20 > div.container.px-3.lg\:px-5.py-1.rounded-3xl.bg-slate-800:nth-child(4)
+nekopost.net##div:first-child > div.mx-auto.dark\:text-slate-400.mt-16.lg\:mt-0:first-child > div.fixed:nth-child(2) > a:first-child
 --REMOVE OLD NEKOPOST BLOCK--
 
 --15/03/2024--
