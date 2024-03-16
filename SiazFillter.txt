@@ -1,9 +1,12 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2K24-3.1
-! Last modified:  15 Mar 2024
+! Version:        V.2K24-3.1B
+! Last modified:  16 Mar 2024
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
+
+--16/03/2024--
+--REMOVE OLD NEKOPOST BLOCK--
 
 --15/03/2024--
 kumomanga.net##div.blox.mlb.kln:nth-child(4)
@@ -171,8 +174,6 @@ inu-manga.com##div.mainholder:nth-child(4) > div.header-ads-section:nth-child(3)
 --13/03/2023--
 
 eye-manga.com##div.header-ads-section:nth-child(5)
-nekopost.net##div.layout-wrapper:first-child > div.container-fluid.wrapper.light.svelte-mvqci5:last-child > div.chapter-content.svelte-mvqci5 > div.layout-helper.svelte-mvqci5:last-child
-
 
 --14/02/2024--
 
@@ -194,10 +195,6 @@ manhuathai.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-c
 manhuathai.com##div.ads-float:nth-child(47) > div
 manghaha.com##div.container-fluid.text-center.mb-3:nth-child(7)
 manhuathai.com##div.ads-float:nth-child(45) > div
-
---07/02/2023--
-
-nekopost.net##div.layout-wrapper > div.container-fluid.wrapper.light.svelte-mvqci5:last-child > div.chapter-content.svelte-mvqci5 > div.layout-helper.svelte-mvqci5:last-child
 
 --19/01/2023-
 
@@ -348,9 +345,6 @@ cat-translator.com###respond
 cat-translator.com##.comment-respond
 cat-translator.com###madara-comments
 cat-translator.com##.comments-area
-nekopost.net###commentBox
-nekopost.net##div.layout-wrapper:first-child > div.container-fluid.wrapper.svelte-ixpqjn:last-child > div.chapter-content.svelte-ixpqjn > div.layout-helper.svelte-ixpqjn:last-child
-nekopost.net##div.layout-wrapper:first-child > div.container-fluid.wrapper.dark.svelte-1v5ypug:last-child > div.chapter-content.svelte-1v5ypug > div.layout-helper.svelte-1v5ypug:last-child
 ||cat-translator.com/manga/wp-content/uploads/2020/12/13148490425016.gif
 ||cat-translator.com/manga/wp-content/uploads/2020/12/140x250.gif
 ||cat-translator.com/manga/wp-content/plugins/advanced-floating-content/public/images/advanced_floating_close_button.png
