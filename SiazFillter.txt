@@ -1,9 +1,30 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2K24-3.2
-! Last modified:  16 Mar 2024
+! Version:        V.2K24-5.1
+! Last modified:  10 May 2024
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
+
+--10/05/2024--
+
+go-manga.com##.center_gomanga
+go-manga.com##div:first-child > h1
+go-manga.com###sticky-bottom
+go-manga.com###comments
+go-manga.com##.infotable
+go-manga.com###footer
+go-manga.com##div:nth-child(21)
+go-manga.com##div:nth-child(20)
+go-manga.com###content > div.wrapper > div:first-child
+go-manga.com##.slider-wrapper, .wrapernum1
+go-manga.com##.center_gomanga3
+go-manga.com##div:nth-child(19)
+go-manga.com##* > div.ts-breadcrumb.bixbox:nth-child(2)
+go-manga.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+go-manga.com##* > div.chaptertags:last-child
+go-manga.com##.readingnav, .rnavbot
+||go-manga.com/wp-content/uploads/2024/01/go-manga-wallpapaer.jpg
+go-manga.com##.seriestuheader
 
 --16/03/2024--
 
@@ -16,6 +37,7 @@ nekopost.net##div:first-child > div.mx-auto.dark\:text-slate-400.mt-16.lg\:mt-0:
 --REMOVE OLD NEKOPOST BLOCK--
 
 --15/03/2024--
+
 kumomanga.net##div.blox.mlb.kln:nth-child(4)
 kumomanga.net###footer
 kumomanga.net###comments
@@ -30,11 +52,13 @@ kumomanga.net##.kln
 kumomanga.net##.bottom
 
 --03/03/2024--
+
 animeshiro.com##section:nth-child(2)
 animeshiro.com##section:nth-child(5)
 animeshiro.com###main > div.container.py-3 > div.row > div.col-lg-4.col-xl-3:last-child
 
 --27/02/2024--
+
 inu-manga.com##.type, .Manhwa
 mangakimi.com##.type, .Manhwa
 mangakimi.com##.colored
