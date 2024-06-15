@@ -1,9 +1,20 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2K24-5.1
-! Last modified:  10 May 2024
+! Version:        V.2K24-6.1
+! Last modified:  15 Jun 2024
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
+
+--15/06/2024--
+
+mangasuper.com##.widget-content
+###manga-header
+mangasuper.com##div.wrap:nth-child(3) > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
+mangasuper.com##div.wrap:nth-child(3) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
+mangasuper.com##div.wrap:nth-child(3) > div.body-wrap > div.site-content:nth-child(3) > div.c-page-content.style-1 > div.content-area > div.container > div.row > div.sidebar-col.col-md-4.col-sm-4:last-child
+mangasuper.com##.site-footer
+mangasuper.com##div.wrap:nth-child(3) > div.body-wrap > div.c-sidebar.c-bottom-sidebar.wp-manga:nth-child(4)
+mangasuper.com###chapter-heading
 
 --10/05/2024--
 
