@@ -1,12 +1,15 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2K24-7.1
+! Version:        V.2K24-7.2
 ! Last modified:  01 Jul 2024
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
 
 --01/07/2024--
 
+h-ani.com###hdoujin > h6:nth-child(29)
+h-ani.com###hdoujin > small.text-muted:last-child
+||eroge.h-ani.com/search4.webp
 h-ani.com##div.container-fluid:nth-child(2) > footer.page-footer.font-small.bg-dark3.pt-4.font-nav:nth-child(6)
 h-ani.com###sticky-eat-bottom
 h-ani.com##div.container-fluid:nth-child(2) > div.container-full.font-body:nth-child(4) > div.col-md-12.col-sm-12.col-xs-12.font-body.row:last-child
