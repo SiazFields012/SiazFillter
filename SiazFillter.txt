@@ -1,9 +1,37 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2K24-6.1
-! Last modified:  15 Jun 2024
+! Version:        V.2K24-7.1
+! Last modified:  01 Jul 2024
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
+
+--01/07/2024--
+
+h-ani.com##div.container-fluid:nth-child(2) > footer.page-footer.font-small.bg-dark3.pt-4.font-nav:nth-child(6)
+h-ani.com###sticky-eat-bottom
+h-ani.com##div.container-fluid:nth-child(2) > div.container-full.font-body:nth-child(4) > div.col-md-12.col-sm-12.col-xs-12.font-body.row:last-child
+h-ani.com###navbarsExampleDefault > ul.navbar-nav.me-auto.mb-2.mb-lg-0:first-child
+h-ani.com###doujinz
+h-ani.com##footer.page-footer.font-small.bg-dark3.pt-4.font-nav:nth-child(8)
+h-ani.com##div.container:nth-child(3) > div.row.text-center > div.card.bg-dark2.container-full:first-child > div.card-body:nth-child(2) > div.card.card-comments.mb-3.wow.fadeIn.bg-dark4:last-child
+h-ani.com##.page-footer, .font-small, .bg-dark3, .pt-4, .font-nav
+h-ani.com##div.container-fluid.font-body:nth-child(7)
+h-ani.com###hdoujin > h6:nth-child(90)
+h-ani.com###hdoujin > div.fb-like.fb_iframe_widget:nth-child(87)
+h-ani.com##section.font-body:nth-child(4) > div.container-fluid:first-child > div.row > div.col-12.col-lg-2.desk-display2.text-center:nth-child(2)
+h-ani.com##section.font-body:nth-child(4) > div.container-fluid:first-child > div.row > div.col.center_2dth:nth-child(3)
+h-ani.com##div.col:nth-child(3)
+h-ani.com##section.font-body:nth-child(4) > div.container-fluid:first-child > div.row > div.card.text-white.bg-dark2.container-full:last-child > div.card-body:last-child > div.card.card-comments.mb-3.wow.fadeIn.bg-dark4:last-child
+h-ani.com##section.font-body.container-fluid:nth-child(2)
+h-ani.com##section.font-body.container-fluid:nth-child(4) > div.row:first-child > div.col-12.col-lg-2.desk-display2.text-center:last-child
+h-ani.com##section.font-body.container-fluid:nth-child(4) > div.card.text-white.bg-dark2.container-full:nth-child(5) > div.card-body:last-child > div.well.well-sm.watch-detail:last-child > div.card.card-comments.mb-3.wow.fadeIn.bg-dark4:last-child
+h-ani.com##section.font-body.container-fluid:nth-child(4) > div.container-fluid.font-body:nth-child(3)
+h-ani.com##section.font-body:nth-child(4) > div.container-fluid:nth-child(2) > div.row > div.card.text-white.bg-dark2.container-full:last-child > div.card-body:last-child > div.card.card-comments.mb-3.wow.fadeIn.bg-dark4:last-child
+h-ani.com##section.font-body:nth-child(4) > div.container-fluid:nth-child(2) > div.row > div.col-12.col-lg-2.desk-display2.text-center:nth-child(2)
+thai-hentai.com###speed_sponser
+thai-hentai.com###footerpage
+thai-hentai.com##section.font-body.container-fluid:nth-child(4) > div.row:nth-child(3) > div.col-12.col-lg-2.desk-display2.text-center:last-child
+thai-hentai.com##section.font-body.container-fluid:nth-child(4) > div.card.text-white.bg-dark2.container-full:nth-child(7) > div.card-body:last-child > div.card.card-comments.mb-3.wow.fadeIn.bg-dark4:last-child
 
 --15/06/2024--
 
