@@ -1,9 +1,20 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2K25-1.0
-! Last modified:  05 Jan 2025
+! Version:        V.2K25-11.0
+! Last modified:  22 Nov 2025
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
+
+--22/11/2025--
+
+ok-doujinx.com##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
+ok-doujinx.com###block-34 > div.widget__inner.widget_block__inner.c-widget-wrap > div.widget-content
+ok-doujinx.com##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-bottom-sidebar.wp-manga:nth-child(4)
+ok-doujinx.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(3) > div.c-page-content.style-1.reading-content-wrap.chapter-type-manga > div.content-area > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.main-col-inner:last-child > div.row.c-row.related-manga:last-child
+ok-doujinx.com##div.wrap:first-child > div.body-wrap > footer.site-footer:last-child
+ok-doujinx.com##div.wrap:first-child > div.body-wrap > header.site-header:first-child > div.c-sub-header-nav.with-border:last-child
+ok-doujinx.com##div.wrap:first-child > div.body-wrap > header.site-header:first-child > div.c-header__top:first-child > div.main-navigation.style-1:last-child > div.container > div.row > div.col-md-12 > div.main-navigation_wrap > div.wrap_branding:first-child
+ok-doujinx.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(3) > div.post-1188.wp-manga.type-wp-manga.status-publish.has-post-thumbnail.hentry.wp-manga-author-updating.wp-manga-artist-updating.wp-manga-genre-manhwa.wp-manga-genre-drama.wp-manga-genre-manhwa-color.wp-manga-genre-romantic-manhwa.wp-manga-genre-hmanhwa > div.c-page-content.style-1:last-child > div.content-area > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.main-col-inner > div.row.c-row.related-manga:last-child
 
 --05/01/2025--
 
@@ -583,3 +594,4 @@ inu-manga.com###post-140491 > div.entry-content.entry-content-single.maincontent
 inu-manga.com###content > div.wrapper > div.chapterbody:first-child > div.postarea > div.bixbox:nth-child(4)
 inu-manga.com###post-140491 > div.chaptertags:last-child
 readtoons.net##div.container:nth-child(2)
+
