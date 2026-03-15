@@ -1,575 +1,511 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2K25-11.0
-! Last modified:  22 Nov 2025
+! Version:        V.2K226-03.0 (Sorted)
+! Last modified:  15 Mar 2026
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
 
---22/11/2025--
-
-ok-doujinx.com##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
-ok-doujinx.com###block-34 > div.widget__inner.widget_block__inner.c-widget-wrap > div.widget-content
-ok-doujinx.com##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-bottom-sidebar.wp-manga:nth-child(4)
-ok-doujinx.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(3) > div.c-page-content.style-1.reading-content-wrap.chapter-type-manga > div.content-area > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.main-col-inner:last-child > div.row.c-row.related-manga:last-child
-ok-doujinx.com##div.wrap:first-child > div.body-wrap > footer.site-footer:last-child
-ok-doujinx.com##div.wrap:first-child > div.body-wrap > header.site-header:first-child > div.c-sub-header-nav.with-border:last-child
-ok-doujinx.com##div.wrap:first-child > div.body-wrap > header.site-header:first-child > div.c-header__top:first-child > div.main-navigation.style-1:last-child > div.container > div.row > div.col-md-12 > div.main-navigation_wrap > div.wrap_branding:first-child
-ok-doujinx.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(3) > div.post-1188.wp-manga.type-wp-manga.status-publish.has-post-thumbnail.hentry.wp-manga-author-updating.wp-manga-artist-updating.wp-manga-genre-manhwa.wp-manga-genre-drama.wp-manga-genre-manhwa-color.wp-manga-genre-romantic-manhwa.wp-manga-genre-hmanhwa > div.c-page-content.style-1:last-child > div.content-area > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.main-col-inner > div.row.c-row.related-manga:last-child
-
---05/01/2025--
-
-||img.mangakimi.com/2025/01/3f/CIBYQOPT48-1735919543.jpg
-mangakimi.com##div.mainholder:nth-child(4) > div.header-ads-section:nth-child(3)
-mangakimi.com##div.bixbox:nth-child(3)
-
---01/07/2024--
-
-h-ani.com###hdoujin > h6:nth-child(29)
-h-ani.com###hdoujin > small.text-muted:last-child
-||eroge.h-ani.com/search4.webp
-h-ani.com##div.container-fluid:nth-child(2) > footer.page-footer.font-small.bg-dark3.pt-4.font-nav:nth-child(6)
-h-ani.com###sticky-eat-bottom
-h-ani.com##div.container-fluid:nth-child(2) > div.container-full.font-body:nth-child(4) > div.col-md-12.col-sm-12.col-xs-12.font-body.row:last-child
-h-ani.com###navbarsExampleDefault > ul.navbar-nav.me-auto.mb-2.mb-lg-0:first-child
-h-ani.com###doujinz
-h-ani.com##footer.page-footer.font-small.bg-dark3.pt-4.font-nav:nth-child(8)
-h-ani.com##div.container:nth-child(3) > div.row.text-center > div.card.bg-dark2.container-full:first-child > div.card-body:nth-child(2) > div.card.card-comments.mb-3.wow.fadeIn.bg-dark4:last-child
-h-ani.com##.page-footer, .font-small, .bg-dark3, .pt-4, .font-nav
-h-ani.com##div.container-fluid.font-body:nth-child(7)
-h-ani.com###hdoujin > h6:nth-child(90)
-h-ani.com###hdoujin > div.fb-like.fb_iframe_widget:nth-child(87)
-h-ani.com##section.font-body:nth-child(4) > div.container-fluid:first-child > div.row > div.col-12.col-lg-2.desk-display2.text-center:nth-child(2)
-h-ani.com##section.font-body:nth-child(4) > div.container-fluid:first-child > div.row > div.col.center_2dth:nth-child(3)
-h-ani.com##div.col:nth-child(3)
-h-ani.com##section.font-body:nth-child(4) > div.container-fluid:first-child > div.row > div.card.text-white.bg-dark2.container-full:last-child > div.card-body:last-child > div.card.card-comments.mb-3.wow.fadeIn.bg-dark4:last-child
-h-ani.com##section.font-body.container-fluid:nth-child(2)
-h-ani.com##section.font-body.container-fluid:nth-child(4) > div.row:first-child > div.col-12.col-lg-2.desk-display2.text-center:last-child
-h-ani.com##section.font-body.container-fluid:nth-child(4) > div.card.text-white.bg-dark2.container-full:nth-child(5) > div.card-body:last-child > div.well.well-sm.watch-detail:last-child > div.card.card-comments.mb-3.wow.fadeIn.bg-dark4:last-child
-h-ani.com##section.font-body.container-fluid:nth-child(4) > div.container-fluid.font-body:nth-child(3)
-h-ani.com##section.font-body:nth-child(4) > div.container-fluid:nth-child(2) > div.row > div.card.text-white.bg-dark2.container-full:last-child > div.card-body:last-child > div.card.card-comments.mb-3.wow.fadeIn.bg-dark4:last-child
-h-ani.com##section.font-body:nth-child(4) > div.container-fluid:nth-child(2) > div.row > div.col-12.col-lg-2.desk-display2.text-center:nth-child(2)
-thai-hentai.com###speed_sponser
-thai-hentai.com###footerpage
-thai-hentai.com##section.font-body.container-fluid:nth-child(4) > div.row:nth-child(3) > div.col-12.col-lg-2.desk-display2.text-center:last-child
-thai-hentai.com##section.font-body.container-fluid:nth-child(4) > div.card.text-white.bg-dark2.container-full:nth-child(7) > div.card-body:last-child > div.card.card-comments.mb-3.wow.fadeIn.bg-dark4:last-child
-
---15/06/2024--
-
-mangasuper.com##.widget-content
-###manga-header
-mangasuper.com##div.wrap:nth-child(3) > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
-mangasuper.com##div.wrap:nth-child(3) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
-mangasuper.com##div.wrap:nth-child(3) > div.body-wrap > div.site-content:nth-child(3) > div.c-page-content.style-1 > div.content-area > div.container > div.row > div.sidebar-col.col-md-4.col-sm-4:last-child
-mangasuper.com##.site-footer
-mangasuper.com##div.wrap:nth-child(3) > div.body-wrap > div.c-sidebar.c-bottom-sidebar.wp-manga:nth-child(4)
-mangasuper.com###chapter-heading
-
---10/05/2024--
-
-go-manga.com##.center_gomanga
-go-manga.com##div:first-child > h1
-go-manga.com###sticky-bottom
-go-manga.com###comments
-go-manga.com##.infotable
-go-manga.com###footer
-go-manga.com##div:nth-child(21)
-go-manga.com##div:nth-child(20)
-go-manga.com###content > div.wrapper > div:first-child
-go-manga.com##.slider-wrapper, .wrapernum1
-go-manga.com##.center_gomanga3
-go-manga.com##div:nth-child(19)
-go-manga.com##* > div.ts-breadcrumb.bixbox:nth-child(2)
-go-manga.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
-go-manga.com##* > div.chaptertags:last-child
-go-manga.com##.readingnav, .rnavbot
-||go-manga.com/wp-content/uploads/2024/01/go-manga-wallpapaer.jpg
-go-manga.com##.seriestuheader
-
---16/03/2024--
-
-nekopost.net##div:first-child > div.mx-auto.dark\:text-slate-400.mt-16.lg\:mt-0:first-child > div.svelte-rn2hpa:nth-child(5)
-nekopost.net##div:first-child > div.mx-auto.dark\:text-slate-400.mt-16.lg\:mt-0:first-child > div.xl\:max-w-\[1320px\].\32 xl\:max-w-\[1420px\].w-full.svelte-otz5v0:nth-child(4) > table.w-full.mt-4.svelte-otz5v0 > tr.svelte-otz5v0 > td.lg\:min-w-\[664px\].lg\:max-w-\[700px\].w-full.lg\:px-4.xl\:px-10.svelte-otz5v0:first-child > div.px-2.lg\:px-0.svelte-otz5v0 > div.mt-4.xl\:mt-16.svelte-otz5v0:last-child
-nekopost.net##.text-2xl
-nekopost.net###readerContent > div.container.mt-0.px-2.md\:px-6.xl\:px-20 > div.grid.grid-cols-1.lg\:grid-cols-5.xl\:gap-3:last-child
-nekopost.net###readerContent > div.container.mt-0.px-2.md\:px-6.xl\:px-20 > div.container.px-3.lg\:px-5.py-1.rounded-3xl.bg-slate-800:nth-child(4)
-nekopost.net##div:first-child > div.mx-auto.dark\:text-slate-400.mt-16.lg\:mt-0:first-child > div.fixed:nth-child(2) > a:first-child
---REMOVE OLD NEKOPOST BLOCK--
-
---15/03/2024--
-
-kumomanga.net##div.blox.mlb.kln:nth-child(4)
-kumomanga.net###footer
-kumomanga.net###comments
-kumomanga.net###post-148518 > div.bixbox.animefull:nth-child(2) > div.bottom:last-child
-kumomanga.net###post-148518 > div.bixbox.animefull:nth-child(2) > div.bigcontent.nobigcover:first-child > div.infox:last-child > div.socialts:nth-child(2)
-kumomanga.net###post-151365 > div.socialts:nth-child(2)
-kumomanga.net##.chdesc
-kumomanga.net##.chaptertags
-kumomanga.net##.socialts
-kumomanga.net##.socialts
-kumomanga.net##.kln
-kumomanga.net##.bottom
-
---03/03/2024--
-
-animeshiro.com##section:nth-child(2)
-animeshiro.com##section:nth-child(5)
-animeshiro.com###main > div.container.py-3 > div.row > div.col-lg-4.col-xl-3:last-child
-
---27/02/2024--
-
-mangakimi.com##.type, .Manhwa
-mangakimi.com##.colored
-
---23/02/2024--
-mangakimi.com###post-212177 > div.bixbox:nth-child(3)
-
-
---01/01/2024--
-
-kemono.su###page > div.post__body:nth-child(3) > div.ad-container:first-child
-kemono.su###page > div.ad-container:nth-child(5)
-
---20/12/2023--
-
-rule34video.com###custom_list_videos_videos_list_search_items > div.spot-thumb.thumb:nth-child(16)
-rule34video.com##div:first-child > div.wrapper:nth-child(2) > div.footer:nth-child(3)
-
---15/12/2023--
-
-doujin-th.com##div.container:nth-child(5)
-doujin-th.com##div.container:nth-child(4) > div.alert.alert-danger
-kemono.su###page > div.ad-container:nth-child(5)
-
---19/11/2023--
-
-doujin-th.com##div.container:nth-child(4)
-doujin-th.com###bs-navbar > ul.nav.navbar-nav:first-child > li.hidden-xs:last-child
-doujin89.com###sidebar > div.widget_text.section:first-child
-doujin89.com###comments
-doujin89.com###content > div.wrapper > div.bigcover:first-child
-||doujin89.com/wp-content/uploads/2023/08/bg89.jpg
-miku-manga.com###content > div.wrapper > div.bigcover:first-child > div.bigbanner.img-blur
-miku-manga.com###titlemove > span.alternative:last-child
-mangakimi.com###content > div.wrapper > div.bigcover:first-child
-miku-manga.com###content > div.wrapper > div.bigcover:first-child
-spankbang.com###home > div.channels_scroll_list:first-child
-spankbang.com###home > div.videos:last-child > h2:nth-child(3)
-spankbang.com###home > div.videos:last-child > a.ft-button.ft-grad.more_videos:nth-child(5)
-spankbang.com###container > footer:last-child
-spankbang.com###home > div.videos:last-child > h2:nth-child(31) > a.h
-
---01/10/2023--
-
-xn--72cmtudp6e8ad1dzef5f7bwc2an.com###slider-l
-xn--72cmtudp6e8ad1dzef5f7bwc2an.com###slider-r
-xn--72cmtudp6e8ad1dzef5f7bwc2an.com###slider-r > a:last-child > img
-xn--72cmtudp6e8ad1dzef5f7bwc2an.com##div.uk-container.uk-container-expand:nth-child(15)
-xn--72cmtudp6e8ad1dzef5f7bwc2an.com##* > div.uk-container.uk-container-small:last-child > div.colophon-message-body.column:first-child > center:nth-child(3)
-||xn--72cmtudp6e8ad1dzef5f7bwc2an.com/*.gif
-xn--72cmtudp6e8ad1dzef5f7bwc2an.com###colophon-ets\ extras
-xn--72cmtudp6e8ad1dzef5f7bwc2an.com##section.uk-section.uk-section-muted:nth-child(17) > div.uk-container > center:first-child
-xn--72cmtudp6e8ad1dzef5f7bwc2an.com##* > div.uk-container.uk-container-small:last-child > center:last-child
-xn--72cmtudp6e8ad1dzef5f7bwc2an.com##section.uk-section.uk-article:nth-child(16) > hr.uk-divider-icon:last-child
-xn--72cmtudp6e8ad1dzef5f7bwc2an.com##footer.inside-footer:nth-child(18)
-xn--72cmtudp6e8ad1dzef5f7bwc2an.com###slider-f
-xn--72cmtudp6e8ad1dzef5f7bwc2an.com##footer.inside-footer:nth-child(8)
-xn--72cmtudp6e8ad1dzef5f7bwc2an.com##footer.inside-footer:nth-child(8) > div.uk-container.uk-container-expand.uk-background-secondary
-
---16/09/2023--
-
-miku-manga.com###content > div.wrapper > div.chapterbody:first-child > div.postarea > div.bixbox:nth-child(2)
-miku-manga.com###sidebar > div.section:last-child
-miku-manga.com###content > div.wrapper > div.postbody:nth-child(2) > div.kln:first-child > center
-miku-manga.com###footer
-miku-manga.com##* > div.bixbox:nth-child(3)
-miku-manga.com###comments
-miku-manga.com##* > div.main-info:first-child > div.info-right:last-child > div.ts-breadcrumb.bixbox:last-child
-miku-manga.com##* > div.main-info:first-child > div.info-left:first-child > div.info-left-margin > div.tsinfo.bixbox:last-child
-miku-manga.com##* > div.main-info:first-child > div.info-left:first-child > div.info-left-margin > div.rating.bixbox:nth-child(5)
-miku-manga.com##* > div.main-info:first-child > div.info-right:last-child > div.bixbox.image-list:nth-child(2)
-miku-manga.com##* > div.chaptertags:last-child
-miku-manga.com##* > img.ts-main-image.lazy.loaded.curdown:last-child
-miku-manga.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
-miku-manga.com##* > div.ts-breadcrumb.bixbox:nth-child(2)
-romance-manga.com##main:nth-child(5) > div.content > div.series > div.container:last-child > div.series-flex > div.series-flexleft:first-child > div.series-info:last-child
-romance-manga.com##a.scrollToTop:nth-child(21)
-
---14/09/2023--
-
-romance-manga.com##div.rm-ads:nth-child(4)
-romance-manga.com##footer:nth-child(8)
-romance-manga.com##footer:nth-child(10)
-romance-manga.com##main:nth-child(5) > div.content:first-child > div.container:last-child > div.reader-area:first-child > p > img:last-child
-romance-manga.com##main:nth-child(5) > div.content:first-child > div.container:last-child > div.comment.single:last-child
-romance-manga.com##main:nth-child(5) > div.content:first-child > div.info-chapter:nth-child(2)
-romance-manga.com###navigation
-romance-manga.com###ads_03
-romance-manga.com###ads_02
-romance-manga.com##main:nth-child(4) > div.content > div.container:last-child > center:nth-child(2)
-romance-manga.com##main:nth-child(4) > div.content > div.container:last-child > h3:first-child
-romance-manga.com##footer:nth-child(6) > div.footertop:first-child
-romance-manga.com##footer:nth-child(6)
-romance-manga.com##main:nth-child(5) > div.content > div.series > div.container:last-child > div.series-flex > div.series-flexright:last-child > div.comment:last-child
-
---09/09/2023--
-
+! =============== [ 0 - 9 ] ===============
+||1.bp.blogspot.com/*.gif
 ||4.makimaaaaa.com/*.gif
-makimaaaaa.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.kln:nth-child(3)
-makimaaaaa.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
-makimaaaaa.com###wbnn
-makimaaaaa.com###comments
-makimaaaaa.com###content > div.blox.mlb.kln:first-child
-makimaaaaa.com###content > div.blox.mlb.kln:first-child
-makimaaaaa.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
-makimaaaaa.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.kln:nth-child(6)
-makimaaaaa.com##* > div.chaptertags:last-child
-makimaaaaa.com###footer
-makimaaaaa.com###content > div.wrapper:last-child > div.chapterbody:first-child > div.postarea > div.bixbox:nth-child(2)
-makimaaaaa.com###content > div.wrapper:last-child > div.postbody:nth-child(2) > div.bixbox:last-child
-makimaaaaa.com###sidebar
-fairyanime.net###kosana
-manhuathai.com##div.wrap:first-child > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
-manhuathai.com##div.ads-float:nth-child(40) > div
-manhuathai.com##div.ads-float:nth-child(38)
-manhuathai.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(4) > div.c-page-content.style-1.reading-content-wrap.chapter-type-text > div.content-area > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.main-col-inner:last-child > div.row:last-child
-manhuathai.com###chapter-heading
 
---22/08/2023--
-
-mangakimi.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
-mangakimi.com##* > div.ts-breadcrumb.bixbox:nth-child(2)
-mangakimi.com##*  > div.chaptertags:last-child
-mangakimi.com###comments
-mangakimi.com###content > div.wrapper > div.chapterbody:first-child > div.postarea > div.bixbox:last-child
-mangakimi.com###footer
-
---13/04/2023--
-
-xn--q3cmiag1gmn.com##div.header-ads-section:nth-child(6)
-xn--q3cmiag1gmn.com###post-153857 > div.bixbox.episodedl:nth-child(2) > div.epwrapper > div.epcontent.entry-content:nth-child(4) > button.simplefavorite-button:last-child
-||romance-manga.com/wp-content/uploads/2022/09/Romance-cover.webp
-
---13/03/2023--
-
-eye-manga.com##div.header-ads-section:nth-child(5)
-
---14/02/2024--
-
-manhwabreakup.com##div.ads-float:nth-child(40) > div
-manhwabreakup.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
-moodtoon.com###content > div.wrapper > div.mt-ad.text-center:first-child
-moodtoon.com###ads_03
-moodtoon.com###ads_02
-moodtoon.com###ads_04
-moodtoon.com###comments
-moodtoon.com###content > div.blox.mlb.kln:first-child
-thaimanga.net##div.ads:nth-child(6)
-thaimanga.net###comments
-mangathailand.com##div.elementor.elementor-58.elementor-location-single.post-28917.post.type-post.status-publish.format-standard.hentry.category-my-female-apprentices-are-all-future-big-shots:nth-child(10) > div.elementor-element.elementor-element-d59b04d.e-con-boxed.e-con:nth-child(2) > div.e-con-inner
-mangathailand.com###ads-sticky > a:first-child
-makimaaaaa.com###content > div.blox.mlb.kln:first-child
-makimaaaaa.com###wbnn
-manhuathai.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
-manhuathai.com##div.ads-float:nth-child(47) > div
-manghaha.com##div.container-fluid.text-center.mb-3:nth-child(7)
-manhuathai.com##div.ads-float:nth-child(45) > div
-
---19/01/2023-
-
-thaimanga.net##div.ads:nth-child(6)
-thaimanga.net###comments
-
---17/01/2023--
-
-murim-manga.com###content > div.wrapper > div.dessert-frame:first-child
-murim-manga.com###ads_fix_footer
-murim-manga.com###colophon > div.footercopyright > div.copyright:last-child > center:first-child
-||murim-manga.com/wp-content/uploads/2022/08/WEBP.webp
-murim-manga.com###comments
-moodtoon.com###content > div.wrapper > div.mt-ad.text-center:first-child
-moodtoon.com###ads_03
-moodtoon.com###ads_02
-moodtoon.com###ads_04
-moodtoon.com###comments
-moodtoon.com###content > div.blox.mlb.kln:first-child
-
---29/11/2022--
-
-mafia-manga.com###content > div.wrapper > div.dessert-frame:first-child
-mafia-manga.com###wbnn
-
---23/10/2022--
-joji-manga.com###content > div.wrapper > div.dessert-frame:first-child
-joji-manga.com###sidebar > div.widget_text.section:first-child
-joji-manga.com###wbnn
-joji-manga.com###colophon > div.footercopyright > div.copyright:last-child > div.txt > center:first-child
-joji-manga.com###post-29854 > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
-toomtam-manga.com###content > div.wrapper > div.dessert-frame:first-child > center
-toomtam-manga.com###wbnn
-toomtam-manga.com###sidebar > div.widget_text.section:first-child
-toomtam-manga.com###colophon > div.footercopyright > div.copyright:last-child > center:first-child
-toomtam-manga.com###post-54894 > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
-plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > a:nth-child(2)
-plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > a:nth-child(3)
-plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > div.row:last-child > div.article__content.col-lg-8:first-child > div.mb-4:nth-child(2)
-plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > div.row:last-child > div.article__content.col-lg-8:first-child > div.mb-4:nth-child(3)
-plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > div.row:last-child > div.article__content.col-lg-8:first-child > div.articlecontent__comment:nth-child(4)
-plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > div.row:last-child > div.article__content.col-lg-8:first-child > div.articlecontent__body:first-child > p:nth-child(2)
-plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > a:nth-child(4) > img.lazy.animated.fadeIn.loaded
-rh2plusmanga.com##div.wrap:nth-child(3) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
-rh2plusmanga.com##div.ads-float:nth-child(45)
-rh2plusmanga.com###main-sidebar > div.widget_text.row:nth-child(3)
-rh2plusmanga.com###main-sidebar > div.widget_text.row:nth-child(4)
-rh2plusmanga.com##div.wrap:nth-child(3) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(4)
-rh2plusmanga.com##div.ads-float:nth-child(46)
-rh2plusmanga.com##code:nth-child(4)
-bakaman.net##div.wrap:nth-child(9) > div.body-wrap > div.hads:nth-child(2)
-mangauptocats.com###custom_html-33
-mangauptocats.com###upcat_ads1
-mangauptocats.com##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
-mangauptocats.com###upcat_ads3
-mangauptocats.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(3) > div.post-16747.wp-manga.type-wp-manga.status-publish.has-post-thumbnail.hentry > div.c-page-content.style-1:last-child > div.content-area > div.container > div.row > div.main-col.col-md-8.col-sm-8:first-child > div.main-col-inner > div.manga-discussion.wrapper:last-child
-mangauptocats.com###manga-discussion
-mangauptocats.com###upcat_ads2
-mangauptocats.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(3) > div.c-page-content.style-1.reading-content-wrap.chapter-type-manga > div.content-area > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.main-col-inner:last-child > div.row:last-child
-xn--l3c0azab5a2gta.com##div.ads:nth-child(6)
-xn--l3c0azab5a2gta.com###post-118293 > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
-lami-manga.com###content > div.wrapper > div.dessert-frame:first-child
-lami-manga.com###wbnn
-lami-manga.com###colophon > div.footercopyright > div.copyright:last-child > div.txt > center:first-child
-weimanga.com###colophon > div.footercopyright:last-child
-manga689.com###colophon > div.footercopyright:last-child > div.copyright:last-child > div.txt > center:first-child
-manga168.com###content > div.wrapper > div.dessert-frame:first-child
-manga168.com###sidebar > div.widget_text.section:first-child
-manga168.com###colophon > div:last-child
-||manga689.com/wp-content/uploads/2022/06/689webp.webp
-||manga168.com/over-cover.webp
-||manga168.com/wp-content/uploads/2022/07/cover-yyyy.webp
-||lami-manga.com/wp-content/uploads/2022/07/manga-bl.webp
-||lami-manga.com/wp-content/uploads/2022/09/lami-cover.webp
-||weimanga.com/wp-content/uploads/2022/09/wei-cover.webp
-||toomtam-manga.com/wp-content/uploads/2022/07/2-%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87.webp
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------LEGACY------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-====================================================
-manga-sugoi.com##header.header:nth-child(3) > div.blox.mlb.kln:last-child
-manga-sugoi.com###wbnn
-manga-sugoi.com##main:nth-child(4) > div.content > div.series > div.container:last-child > div.series-flex > div.series-flexright:last-child > div.comment:last-child
-manga-sugoi.com##main:nth-child(4) > div.content:first-child > div.container:last-child > div.comment.single:last-child
-mangafin.net##div.wrap:nth-child(40) > div.body-wrap:first-child > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
-mangafin.net###advanced_floating_content_3604
-mangafin.net###advanced_floating_content_3602
-mangafin.net###bottom_center_ads
-mangafin.net##div.wrap:nth-child(36) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
-happy-manga.com##div.wrap:nth-child(25) > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
-====================================================
-syndication.realsrv.com
-||i.imgur.com/cLWFyVG.gif
-||i.imgur.com/7rrSSfy.gif
-||neko-miku.com/images/bn/ohoslot-825x384-001.jpg
-||neko-miku.com/images/bn/sagame66-830x300-01.gif
-||neko-miku.com/images/bn/ohoslot-825x491-001.jpg
-||neko-miku.com/images/bn/sagame66-480x480-01.gif
-||neko-miku.com/images/bn/ohoslot-480x500-001.jpg
-||neko-miku.com/images/bn/ohoslot-480x764-001.jpg
-||i.imgur.com/sS6MVmy.gif
-||sbobet333.com/wp-content/uploads/2020/12/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94.gif
-||mangauptocats.online/wp-content/uploads/2020/12/2.gif
-||mangauptocats.online/wp-content/uploads/2020/12/cat350.png
-||cat-translator.com/manga/wp-content/uploads/2020/12/120x300-juad888.gif
-||i.imgur.com/9JFgZYu.gif
-miku-doujin.com##.container.text-center.mb-3
-miku-doujin.com##.text-center.mb-3
-hanimesubth.com##.text-center
-nhentai.net##.container.advertisement.advt
-cat-translator.com##.banner_zone
-cat-translator.com###fixedban
-cat300.com##.c-sidebar.c-top-sidebar
-dokimori.com##.col-md-12.text-center.mt-2
-mangauptocats.online##.c-sidebar.c-top-sidebar
-hentaithai.com##.col-12.col-sm-8.col-md-6.col-lg-4
-anime-sugoi.com###bt-ads
-anime-sugoi.com##.col-md-8
+! =============== [ A ] ===============
 anime-master.com###slider-b
-animerem.com##.ads-banners
-fairyanime.com###kosana
-fairyanime.com##.concise.kosana.animated.bounce
-neko-miku.com###side
-neko-miku.com###footer
-neko-miku.com###welcome
-neko-miku.com###top
-neko-miku.com##.comment
-cat-translator.com##.c-sidebar.c-top-sidebar
-cat-translator.com###afc_sidebar_8338
-cat-translator.com##.afc_popup
-av-uncen.com###custom_html-3
-av-uncen.com##.widget_text.extendedwopts-md-center.widget.widget_custom_html
-av-uncen.com##.code-block.code-block-2
-jav.guru##.sbox
-jav.guru##.cente
-jav.guru##div[style="text-align:center;"]
-mangauptocats.online###respond
-mangauptocats.online##.comment-respond
-mangauptocats.online###manga-discussion
-mangauptocats.online##.c-blog__heading.style-2.font-heading
-cat-translator.com##.row.c-row
-cat-translator.com###manga-discussion
-cat-translator.com##.c-blog__heading.style-2.font-heading
-cat-translator.com###respond
-cat-translator.com##.comment-respond
-cat-translator.com###madara-comments
-cat-translator.com##.comments-area
-||cat-translator.com/manga/wp-content/uploads/2020/12/13148490425016.gif
-||cat-translator.com/manga/wp-content/uploads/2020/12/140x250.gif
-||cat-translator.com/manga/wp-content/plugins/advanced-floating-content/public/images/advanced_floating_close_button.png
-cat-translator.com##.floating_content_close_button
-cat-translator.com###advanced_floating_content_8358
-cat-translator.com##.advanced_floating_content
-||mangauptocats.online/wp-content/uploads/2020/12/cat350.png
-||sbobet333.com/wp-content/uploads/2020/12/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94.gif
-||mangauptocats.online/wp-content/uploads/2021/01/gifyoulike.gif
-||mangauptocats.online/wp-content/uploads/2021/02/728x200-Hydra888-v1.gif
-||mangauptocats.online/wp-content/uploads/2021/02/%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B28888.gif
-||mangauptocats.online/wp-content/uploads/2021/02/728x200-lotto432.gif
-||mangauptocats.online/wp-content/uploads/2021/02/728x200-london.gif
-||mangauptocats.online/wp-content/uploads/2021/02/728x200-UFA1919.gif
-||mangauptocats.online/wp-content/uploads/2021/02/728x200-UFAC4.gif
-||mangauptocats.online/wp-content/uploads/2021/02/728x200-UFAzeed.gif
-mangauptocats.online##.main-col.col-12.col-sm-8.col-md-8.col-lg-8
-mangauptocats.online##.textwidget.custom-html-widget
-mangauptocats.online##.c-sidebar.c-top-second-sidebar
-mangauptocats.online##.c-sidebar.c-top-sidebar
-mangauptocats.online###respond
-mangauptocats.online##.comment-respond
-animekimi.com###contenedor > div.module:last-child > div.module_home_x:first-child
-animekimi.com###single > div.module_home_x:first-child > center
+anime-sugoi.com##.col-md-8
+anime-sugoi.com###bt-ads
+||anime-sugoi.com/upload/335357af810d85d0409c3f977744e18fo.jpg
+animekimi.com###animekimiads2 > a:first-child > img.animekimi-banner.lazy
+animekimi.com###animekimiads2 > a:last-child > img.animekimi-banner.lazy
 animekimi.com###animekimiads4 > a:first-child > img.animekimi-banner.lazy
 animekimi.com###animekimiads5 > a:first-child > img.animekimi-banner.lazy
 animekimi.com###animekimiads5 > a:last-child > img.animekimi-banner.lazy
+animekimi.com###contenedor > div.module:last-child > div.module_home_x:first-child
+animekimi.com###single > div.module_home_x:first-child > center
 animekimi.com###single > div.module_home_x:nth-child(2)
-animekimi.com###animekimiads2 > a:first-child > img.animekimi-banner.lazy
-animekimi.com###animekimiads2 > a:last-child > img.animekimi-banner.lazy
-||img10.xyz/assets/img/banner-new/LFLOAT-Pussy888win_120x380.gif
-||img10.xyz/assets/img/banner-new/M1.gif
-||img10.xyz/assets/img/banner-new/M1_2.gif
-||img10.xyz/assets/img/banner-new/M6.jpg
-||img10.xyz/assets/img/banner-new/M7.jpg
-||img10.xyz/assets/img/banner-new/M9.jpg
-||img10.xyz/assets/img/banner-new/M8.jpg
-||img10.xyz/assets/img/banner-new/M4_Live22-1456x180px-.gif
-||img10.xyz/assets/img/banner-new/M2-PGslot77_1456x180.gif
-||img10.xyz/assets/img/banner-new/M1_joker123auto_1456x180.gif
-||img10.xyz/assets/img/banner-new/B1-live22auto-200x400xp.gif
+animerem.com##.ads-banners
+animeshiro.com##section:nth-child(2)
+animeshiro.com##section:nth-child(5)
+animeshiro.com###main > div.container.py-3 > div.row > div.col-lg-4.col-xl-3:last-child
+aoxx69.com##.exclamation.rounded-pill.align-self-center
+aoxx69.com##.GTM-sub-Banner.adimg
+aoxx69.com##.slick-next.slick-arrow
+aoxx69.com##.slick-prev.slick-arrow
+aoxx69.com##.slick-prev.slick-arrow.slick-disabled
+aoxx69.com##.slick-wrapper.video_vip_list.mb-3.mb-2.hot_vieo_list
+aoxx69.com##.view_ad_door
+aoxx69.com##.w-100
+aoxx69.com##div[style="position: absolute; top: 0; right: 0;min-width: 270px;"]
+aoxx69.com###view長、動\ top\ ad\ 5\ \(slotgame6666\)
+aoxx69.com###首頁mid\ ad\ 4\ \ \(MARVOW\)
+av-uncen.com##.code-block.code-block-2
+av-uncen.com##.widget_text.extendedwopts-md-center.widget.widget_custom_html
+av-uncen.com###custom_html-3
+
+! =============== [ B ] ===============
+bakaman.net##div.wrap:nth-child(9) > div.body-wrap > div.hads:nth-child(2)
+||bakaman.net/*.gif
+
+! =============== [ C ] ===============
+cat-translator.com##.advanced_floating_content
+cat-translator.com##.afc_popup
+cat-translator.com##.banner_zone
+cat-translator.com##.c-blog__heading.style-2.font-heading
+cat-translator.com##.c-sidebar.c-top-sidebar
+cat-translator.com##.comment-respond
+cat-translator.com##.comments-area
+cat-translator.com##.floating_content_close_button
+cat-translator.com##.row.c-row
+cat-translator.com###advanced_floating_content_8358
+cat-translator.com###afc_sidebar_8338
+cat-translator.com###fixedban
+cat-translator.com###madara-comments
+cat-translator.com###manga-discussion
+cat-translator.com###respond
+||cat-translator.com/manga/wp-content/plugins/advanced-floating-content/public/images/advanced_floating_close_button.png
+||cat-translator.com/manga/wp-content/uploads/2020/12/120x300-juad888.gif
+||cat-translator.com/manga/wp-content/uploads/2020/12/13148490425016.gif
+||cat-translator.com/manga/wp-content/uploads/2020/12/140x250.gif
+cat300.com##.c-blog__heading.style-2.font-heading
+cat300.com##.c-chapter-readmore
+cat300.com##.c-sidebar.c-top-sidebar
+cat300.com##.comment-respond
+cat300.com###manga-discussion
+cat300.com###respond
+||cat300.com/*.gif
+||cat300.com/*.mp4
+||cat300.com/*.webp
+||cat300.com/wp-content/uploads/2021/03/newcat350.gif
+||cat300.com/wp-content/uploads/2021/03/newpapaya.gif
+
+! =============== [ D ] ===============
+||disqus.com/embed/comments/?base=default&f=miku-doujin&t_i=doujin_03w17&t_u=https%3A%2F%2Fmiku-doujin.com%2F03w17%2F&t_d=%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%94%E0%B8%B9%E0%B8%81%E0%B9%87%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%20%5BHaduki%20sai%5D%20Aguri%20men%20to%20hoshuu&t_t=%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%94%E0%B8%B9%E0%B8%81%E0%B9%87%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%20%5BHaduki%20sai%5D%20Aguri%20men%20to%20hoshuu&s_o=default#version=beba9d555eb031d108ecdcadbe9a7405
+dokimori.com##.col-md-12.text-center.mt-2
+doomovie-hd.com##.b
+doomovie-hd.com##.channel-list-container
+doomovie-hd.com##.ext-nav-button.float-left.h-100.pl-2.pr-2.text-decoration-none
+doomovie-hd.com##.footer
+doomovie-hd.com##.left-schedule.text-center
+doomovie-hd.com##.movie-list-container-popular
+doomovie-hd.com##.mt-3.mb-3.clearfix
+doomovie-hd.com##.sb-bar.sb-right.sb-rounded-out.sb-connected.sb-white-icon.sb-white-icon-over.sb-white-label-text.sb-button-space.sb-css-anim
+doomovie-hd.com##.side_floating_ad.left-side_floating_ad
+doomovie-hd.com##.side_floating_ad.right-side_floating_ad
+doomovie-hd.com##.side_floating_ad_close_btn
+doomovie-hd.com##.topad_container
+doomovie-hd.com##.topad_mid
+doomovie-hd.com##.topad_side
+doomovie-hd.com##.w-100.h-100
+doomovie-hd.com##.w-50
+doomovie-hd.com##div[style="width:100%; margin: 0 auto;"]
+doomovie-hd.com###commentsBox
+doujin-th.com##div.container:nth-child(4)
+doujin-th.com##div.container:nth-child(4) > div.alert.alert-danger
+doujin-th.com##div.container:nth-child(5)
+doujin-th.com###bs-navbar > ul.nav.navbar-nav:first-child > li.hidden-xs:last-child
+doujin89.com###comments
+doujin89.com###content > div.wrapper > div.bigcover:first-child
+doujin89.com###sidebar > div.widget_text.section:first-child
+||doujin89.com/wp-content/uploads/2023/08/bg89.jpg
+
+! =============== [ E ] ===============
+||eroge.h-ani.com/search4.webp
+eye-manga.com##div.header-ads-section:nth-child(5)
+
+! =============== [ F ] ===============
+fairyanime.com##.concise.kosana.animated.bounce
+fairyanime.com###kosana
+fairyanime.net###kosana
+||fwiptv.tv/*.gif
+
+! =============== [ G ] ===============
+go-manga.com##* > div.chaptertags:last-child
+go-manga.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+go-manga.com##* > div.ts-breadcrumb.bixbox:nth-child(2)
+go-manga.com##.center_gomanga
+go-manga.com##.center_gomanga3
+go-manga.com##.infotable
+go-manga.com##.readingnav, .rnavbot
+go-manga.com##.seriestuheader
+go-manga.com##.slider-wrapper, .wrapernum1
+go-manga.com##div:first-child > h1
+go-manga.com##div:nth-child(19)
+go-manga.com##div:nth-child(20)
+go-manga.com##div:nth-child(21)
+go-manga.com###comments
+go-manga.com###content > div.wrapper > div:first-child
+go-manga.com###footer
+go-manga.com###sticky-bottom
+||go-manga.com/wp-content/uploads/2024/01/go-manga-wallpapaer.jpg
+
+! =============== [ H ] ===============
+h-ani.com##.page-footer, .font-small, .bg-dark3, .pt-4, .font-nav
+h-ani.com##div.col:nth-child(3)
+h-ani.com##div.container-fluid.font-body:nth-child(7)
+h-ani.com##div.container-fluid:nth-child(2) > div.container-full.font-body:nth-child(4) > div.col-md-12.col-sm-12.col-xs-12.font-body.row:last-child
+h-ani.com##div.container-fluid:nth-child(2) > footer.page-footer.font-small.bg-dark3.pt-4.font-nav:nth-child(6)
+h-ani.com##div.container:nth-child(3) > div.row.text-center > div.card.bg-dark2.container-full:first-child > div.card-body:nth-child(2) > div.card.card-comments.mb-3.wow.fadeIn.bg-dark4:last-child
+h-ani.com##footer.page-footer.font-small.bg-dark3.pt-4.font-nav:nth-child(8)
+h-ani.com##section.font-body.container-fluid:nth-child(2)
+h-ani.com##section.font-body.container-fluid:nth-child(4) > div.card.text-white.bg-dark2.container-full:nth-child(5) > div.card-body:last-child > div.well.well-sm.watch-detail:last-child > div.card.card-comments.mb-3.wow.fadeIn.bg-dark4:last-child
+h-ani.com##section.font-body.container-fluid:nth-child(4) > div.container-fluid.font-body:nth-child(3)
+h-ani.com##section.font-body.container-fluid:nth-child(4) > div.row:first-child > div.col-12.col-lg-2.desk-display2.text-center:last-child
+h-ani.com##section.font-body:nth-child(4) > div.container-fluid:first-child > div.row > div.card.text-white.bg-dark2.container-full:last-child > div.card-body:last-child > div.card.card-comments.mb-3.wow.fadeIn.bg-dark4:last-child
+h-ani.com##section.font-body:nth-child(4) > div.container-fluid:first-child > div.row > div.col-12.col-lg-2.desk-display2.text-center:nth-child(2)
+h-ani.com##section.font-body:nth-child(4) > div.container-fluid:first-child > div.row > div.col.center_2dth:nth-child(3)
+h-ani.com##section.font-body:nth-child(4) > div.container-fluid:nth-child(2) > div.row > div.card.text-white.bg-dark2.container-full:last-child > div.card-body:last-child > div.card.card-comments.mb-3.wow.fadeIn.bg-dark4:last-child
+h-ani.com##section.font-body:nth-child(4) > div.container-fluid:nth-child(2) > div.row > div.col-12.col-lg-2.desk-display2.text-center:nth-child(2)
+h-ani.com###doujinz
+h-ani.com###hdoujin > div.fb-like.fb_iframe_widget:nth-child(87)
+h-ani.com###hdoujin > h6:nth-child(29)
+h-ani.com###hdoujin > h6:nth-child(90)
+h-ani.com###hdoujin > small.text-muted:last-child
+h-ani.com###navbarsExampleDefault > ul.navbar-nav.me-auto.mb-2.mb-lg-0:first-child
+h-ani.com###sticky-eat-bottom
+hanimesubth.com##.text-center
+happy-manga.com##div.wrap:nth-child(25) > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
+hentaithai.com##.col-12.col-sm-8.col-md-6.col-lg-4
+
+! =============== [ I ] ===============
+||i.imgur.com/7rrSSfy.gif
+||i.imgur.com/9JFgZYu.gif
+||i.imgur.com/cLWFyVG.gif
+||i.imgur.com/sS6MVmy.gif
+||i0.wp.com/*.gif
+||img08.xyz/*.gif
+||img08.xyz/assets/img/banner-new/MV5.jpg
+||img08.xyz/assets/img/banner-new/MV6.jpg
+||img08.xyz/assets/img/banner-new/MV7.jpg
 ||img10.xyz/assets/img/banner-new/A1-pgslot99_816x200.gif
 ||img10.xyz/assets/img/banner-new/A2_sexyauto168_816x200.gif
 ||img10.xyz/assets/img/banner-new/A3-2-Ambpoker66-816x200.gif
 ||img10.xyz/assets/img/banner-new/A4-winbet_2_816x200.gif
+||img10.xyz/assets/img/banner-new/B1-live22auto-200x400xp.gif
 ||img10.xyz/assets/img/banner-new/B2_918kissauto_200x400.gif
 ||img10.xyz/assets/img/banner-new/B3R-allbaccarat168_200x400.gif
 ||img10.xyz/assets/img/banner-new/B4_slotxo24hr_200x400.gif
-||img10.xyz/assets/img/banner-new/MV2-sexybaccarat168_1456x180.gif
+||img10.xyz/assets/img/banner-new/LFLOAT-Pussy888win_120x380.gif
+||img10.xyz/assets/img/banner-new/M1.gif
+||img10.xyz/assets/img/banner-new/M1_2.gif
+||img10.xyz/assets/img/banner-new/M1_joker123auto_1456x180.gif
+||img10.xyz/assets/img/banner-new/M2-PGslot77_1456x180.gif
+||img10.xyz/assets/img/banner-new/M4_Live22-1456x180px-.gif
+||img10.xyz/assets/img/banner-new/M6.jpg
+||img10.xyz/assets/img/banner-new/M7.jpg
+||img10.xyz/assets/img/banner-new/M8.jpg
+||img10.xyz/assets/img/banner-new/M9.jpg
 ||img10.xyz/assets/img/banner-new/MV1_918kissauto_1456x180.gif
+||img10.xyz/assets/img/banner-new/MV2-sexybaccarat168_1456x180.gif
 ||img10.xyz/assets/img/banner-new/MV3_sexyauto168_1456x180_3.gif
 ||img10.xyz/assets/img/banner-new/MV4.jpg
 ||img10.xyz/assets/img/banner-new/MV5.jpg
 ||img10.xyz/assets/img/banner-new/MV6.jpg
 ||img10.xyz/assets/img/banner-new/MV7.jpg
-||rs.aoxx69.net/image/banner/20210315174951604f3bcf256e0.jpg
-doomovie-hd.com##.b
-doomovie-hd.com##.side_floating_ad_close_btn
-doomovie-hd.com##.side_floating_ad.right-side_floating_ad
-doomovie-hd.com##.sb-bar.sb-right.sb-rounded-out.sb-connected.sb-white-icon.sb-white-icon-over.sb-white-label-text.sb-button-space.sb-css-anim
-doomovie-hd.com##.side_floating_ad.left-side_floating_ad
-doomovie-hd.com##.left-schedule.text-center
-doomovie-hd.com##.topad_mid
-doomovie-hd.com##.topad_side
-doomovie-hd.com##.w-100.h-100
-doomovie-hd.com##.topad_container
-doomovie-hd.com##.channel-list-container
-doomovie-hd.com##.w-50
-doomovie-hd.com##.ext-nav-button.float-left.h-100.pl-2.pr-2.text-decoration-none
-doomovie-hd.com###commentsBox
-doomovie-hd.com##.mt-3.mb-3.clearfix
-doomovie-hd.com##.movie-list-container-popular
-doomovie-hd.com##div[style="width:100%; margin: 0 auto;"]
-doomovie-hd.com##.footer
-||mangauptocats.online/wp-content/uploads/2021/02/cat350.gif
-||mangauptocats.online/wp-content/uploads/2021/02/3.gif
-cat300.com##.c-chapter-readmore
-cat300.com###respond
-cat300.com##.comment-respond
-cat300.com###manga-discussion
-cat300.com##.c-blog__heading.style-2.font-heading
-||disqus.com/embed/comments/?base=default&f=miku-doujin&t_i=doujin_03w17&t_u=https%3A%2F%2Fmiku-doujin.com%2F03w17%2F&t_d=%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%94%E0%B8%B9%E0%B8%81%E0%B9%87%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%20%5BHaduki%20sai%5D%20Aguri%20men%20to%20hoshuu&t_t=%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%94%E0%B8%B9%E0%B8%81%E0%B9%87%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%20%5BHaduki%20sai%5D%20Aguri%20men%20to%20hoshuu&s_o=default#version=beba9d555eb031d108ecdcadbe9a7405
-||rs.aoxx69.net/image/banner/202011241152235fbc91872401b.jpg
-||rs.aoxx69.net/image/banner/202101151211436001240ff0544.jpg
-||rs.aoxx69.net/image/banner/20210309122259604706338e3e3.jpg
-||rs.aoxx69.net/image/banner/202012191901065fddeb8206f4f.jpg
-||rs.aoxx69.net/image/banner/20210127153506601125ba094c8.jpg
-||rs.aoxx69.net/image/banner/20210303152510603f47e626de4.jpg
-||rs.aoxx69.net/image/banner/202012212022195fe0a18ba8da1.jpg
-||rs.aoxx69.net/image/banner/202011161230105fb20e6276dcb.jpg
-||rs.aoxx69.net/image/banner/20210302002727603d23ffb9e7c.jpg
-||rs.aoxx69.net/image/banner/202103041726116040b5c34a146.jpg
-||rs.aoxx69.net/image/banner/202012281656225fe9abc6f062c.jpg
-aoxx69.com##.slick-next.slick-arrow
-aoxx69.com##.slick-prev.slick-arrow.slick-disabled
-aoxx69.com##.w-100
-aoxx69.com##.exclamation.rounded-pill.align-self-center
-aoxx69.com###首頁mid\ ad\ 4\ \ \(MARVOW\)
-aoxx69.com##.GTM-sub-Banner.adimg
-aoxx69.com##.slick-wrapper.video_vip_list.mb-3.mb-2.hot_vieo_list
-aoxx69.com##.slick-prev.slick-arrow
-||cat300.com/wp-content/uploads/2021/03/newpapaya.gif
-||cat300.com/wp-content/uploads/2021/03/newcat350.gif
-||rs.aoxx69.net/image/banner/202012051443095fcb3a0d58dee.jpg
-||rs.aoxx69.net/image/banner/202012051443495fcb3a352aaf3.jpg
-aoxx69.com##.view_ad_door
-aoxx69.com##div[style="position: absolute; top: 0; right: 0;min-width: 270px;"]
-aoxx69.com###view長、動\ top\ ad\ 5\ \(slotgame6666\)
-aoxx69.com##.GTM-sub-Banner.adimg
-||rs.aoxx69.net/image/banner/202011271101085fc07a048debc.jpg
-||rs.aoxx69.net/image/banner/20210315100941604ecff5f100b.jpg
-||rs.aoxx69.net/image/banner/202103181057116052cf97546fb.jpg
+
+! =============== [ J ] ===============
+jav.guru##.cente
+jav.guru##.sbox
+jav.guru##div[style="text-align:center;"]
+joji-manga.com###colophon > div.footercopyright > div.copyright:last-child > div.txt > center:first-child
+joji-manga.com###content > div.wrapper > div.dessert-frame:first-child
+joji-manga.com###post-29854 > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+joji-manga.com###sidebar > div.widget_text.section:first-child
+joji-manga.com###wbnn
+
+! =============== [ K ] ===============
+kemono.su###page > div.ad-container:nth-child(5)
+kemono.su###page > div.post__body:nth-child(3) > div.ad-container:first-child
+kumomanga.net##.bottom
+kumomanga.net##.chaptertags
+kumomanga.net##.chdesc
+kumomanga.net##.kln
+kumomanga.net##.socialts
+kumomanga.net##div.blox.mlb.kln:nth-child(4)
+kumomanga.net###comments
+kumomanga.net###footer
+kumomanga.net###post-148518 > div.bixbox.animefull:nth-child(2) > div.bigcontent.nobigcover:first-child > div.infox:last-child > div.socialts:nth-child(2)
+kumomanga.net###post-148518 > div.bixbox.animefull:nth-child(2) > div.bottom:last-child
+kumomanga.net###post-151365 > div.socialts:nth-child(2)
+
+! =============== [ L ] ===============
+lami-manga.com###colophon > div.footercopyright > div.copyright:last-child > div.txt > center:first-child
+lami-manga.com###content > div.wrapper > div.dessert-frame:first-child
+lami-manga.com###wbnn
+||lami-manga.com/wp-content/uploads/2022/07/manga-bl.webp
+||lami-manga.com/wp-content/uploads/2022/09/lami-cover.webp
+
+! =============== [ M ] ===============
+mafia-manga.com###content > div.wrapper > div.dessert-frame:first-child
+mafia-manga.com###wbnn
+makimaaaaa.com##* > div.chaptertags:last-child
+makimaaaaa.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+makimaaaaa.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.kln:nth-child(3)
+makimaaaaa.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.kln:nth-child(6)
+makimaaaaa.com###comments
+makimaaaaa.com###content > div.blox.mlb.kln:first-child
+makimaaaaa.com###content > div.wrapper:last-child > div.chapterbody:first-child > div.postarea > div.bixbox:nth-child(2)
+makimaaaaa.com###content > div.wrapper:last-child > div.postbody:nth-child(2) > div.bixbox:last-child
+makimaaaaa.com###footer
+makimaaaaa.com###sidebar
+makimaaaaa.com###wbnn
+manga-sugoi.com##header.header:nth-child(3) > div.blox.mlb.kln:last-child
+manga-sugoi.com##main:nth-child(4) > div.content > div.series > div.container:last-child > div.series-flex > div.series-flexright:last-child > div.comment:last-child
+manga-sugoi.com##main:nth-child(4) > div.content:first-child > div.container:last-child > div.comment.single:last-child
+manga-sugoi.com###wbnn
+manga168.com###colophon > div:last-child
+manga168.com###content > div.wrapper > div.dessert-frame:first-child
+manga168.com###sidebar > div.widget_text.section:first-child
+||manga168.com/over-cover.webp
+||manga168.com/wp-content/uploads/2022/07/cover-yyyy.webp
+manga689.com###colophon > div.footercopyright:last-child > div.copyright:last-child > div.txt > center:first-child
 manga689.com###content > div.wrapper > div.dessert-frame:first-child
 manga689.com###content > div.wrapper > div.postbody:nth-child(3) > div.kln:first-child
-manga689.com###wbnn
 manga689.com###post-312105 > div.entry-content.entry-content-single.maincontent:nth-child(4) > div.kln:nth-child(3)
-
-||niceoppai.net/*.gif
-||cat300.com/*.gif
-||cat300.com/*.mp4
-||1.bp.blogspot.com/*.gif
-||1.bp.blogspot.com/*.gif
-||i0.wp.com/*.gif
-||anime-sugoi.com/upload/335357af810d85d0409c3f977744e18fo.jpg
-||bakaman.net/*.gif
+manga689.com###wbnn
+||manga689.com/*.gif
+||manga689.com/wp-content/uploads/2022/06/689webp.webp
+mangafin.net##div.wrap:nth-child(36) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
+mangafin.net##div.wrap:nth-child(40) > div.body-wrap:first-child > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
+mangafin.net###advanced_floating_content_3602
+mangafin.net###advanced_floating_content_3604
+mangafin.net###bottom_center_ads
+mangahaha.com##div.container-fluid.text-center.mb-3:nth-child(7)
+mangakimi.com##* > div.chaptertags:last-child
+mangakimi.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+mangakimi.com##* > div.ts-breadcrumb.bixbox:nth-child(2)
+mangakimi.com##.colored
+mangakimi.com##.type, .Manhwa
+mangakimi.com##div.bixbox:nth-child(3)
+mangakimi.com##div.mainholder:nth-child(4) > div.header-ads-section:nth-child(3)
+mangakimi.com###comments
+mangakimi.com###content > div.wrapper > div.bigcover:first-child
+mangakimi.com###content > div.wrapper > div.chapterbody:first-child > div.postarea > div.bixbox:last-child
+mangakimi.com###footer
+mangakimi.com###post-212177 > div.bixbox:nth-child(3)
+||img.mangakimi.com/2025/01/3f/CIBYQOPT48-1735919543.jpg
+mangasuper.com##.site-footer
+mangasuper.com##.widget-content
+mangasuper.com##div.wrap:nth-child(3) > div.body-wrap > div.c-sidebar.c-bottom-sidebar.wp-manga:nth-child(4)
+mangasuper.com##div.wrap:nth-child(3) > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
+mangasuper.com##div.wrap:nth-child(3) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
+mangasuper.com##div.wrap:nth-child(3) > div.body-wrap > div.site-content:nth-child(3) > div.c-page-content.style-1 > div.content-area > div.container > div.row > div.sidebar-col.col-md-4.col-sm-4:last-child
+mangasuper.com###chapter-heading
+mangathailand.com##div.elementor.elementor-58.elementor-location-single.post-28917.post.type-post.status-publish.format-standard.hentry.category-my-female-apprentices-are-all-future-big-shots:nth-child(10) > div.elementor-element.elementor-element-d59b04d.e-con-boxed.e-con:nth-child(2) > div.e-con-inner
+mangathailand.com###ads-sticky > a:first-child
+mangauptocats.com##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
+mangauptocats.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(3) > div.c-page-content.style-1.reading-content-wrap.chapter-type-manga > div.content-area > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.main-col-inner:last-child > div.row:last-child
+mangauptocats.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(3) > div.post-16747.wp-manga.type-wp-manga.status-publish.has-post-thumbnail.hentry > div.c-page-content.style-1:last-child > div.content-area > div.container > div.row > div.main-col.col-md-8.col-sm-8:first-child > div.main-col-inner > div.manga-discussion.wrapper:last-child
+mangauptocats.com###custom_html-33
+mangauptocats.com###manga-discussion
+mangauptocats.com###upcat_ads1
+mangauptocats.com###upcat_ads2
+mangauptocats.com###upcat_ads3
+mangauptocats.online##.c-blog__heading.style-2.font-heading
+mangauptocats.online##.c-sidebar.c-top-second-sidebar
+mangauptocats.online##.c-sidebar.c-top-sidebar
+mangauptocats.online##.comment-respond
+mangauptocats.online##.main-col.col-12.col-sm-8.col-md-8.col-lg-8
+mangauptocats.online##.textwidget.custom-html-widget
+mangauptocats.online###manga-discussion
+mangauptocats.online###respond
 ||mangauptocats.online/*.mp4
-||img08.xyz/assets/img/banner-new/MV6.jpg
-||img08.xyz/assets/img/banner-new/MV5.jpg
-||img08.xyz/assets/img/banner-new/MV7.jpg
-||img08.xyz/*.gif
-||cat300.com/*.webp
 ||mangauptocats.online/*.webp
+||mangauptocats.online/wp-content/uploads/2020/12/2.gif
+||mangauptocats.online/wp-content/uploads/2020/12/cat350.png
+||mangauptocats.online/wp-content/uploads/2021/01/gifyoulike.gif
+||mangauptocats.online/wp-content/uploads/2021/02/3.gif
+||mangauptocats.online/wp-content/uploads/2021/02/728x200-Hydra888-v1.gif
+||mangauptocats.online/wp-content/uploads/2021/02/728x200-UFAC4.gif
+||mangauptocats.online/wp-content/uploads/2021/02/728x200-UFA1919.gif
+||mangauptocats.online/wp-content/uploads/2021/02/728x200-UFAzeed.gif
+||mangauptocats.online/wp-content/uploads/2021/02/728x200-london.gif
+||mangauptocats.online/wp-content/uploads/2021/02/728x200-lotto432.gif
+||mangauptocats.online/wp-content/uploads/2021/02/cat350.gif
+||mangauptocats.online/wp-content/uploads/2021/02/%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B28888.gif
 ||mangauptocats.net/*.webp
-||fwiptv.tv/*.gif
+manhuathai.com##div.ads-float:nth-child(38)
+manhuathai.com##div.ads-float:nth-child(40) > div
+manhuathai.com##div.ads-float:nth-child(45) > div
+manhuathai.com##div.ads-float:nth-child(47) > div
+manhuathai.com##div.wrap:first-child > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+manhuathai.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(4) > div.c-page-content.style-1.reading-content-wrap.chapter-type-text > div.content-area > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.main-col-inner:last-child > div.row:last-child
+manhuathai.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+manhuathai.com###chapter-heading
+manhwabreakup.com##div.ads-float:nth-child(40) > div
+manhwabreakup.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+miku-doujin.com##.container.text-center.mb-3
+miku-doujin.com##.text-center.mb-3
+miku-manga.com##* > div.bixbox:nth-child(3)
+miku-manga.com##* > div.chaptertags:last-child
+miku-manga.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+miku-manga.com##* > div.main-info:first-child > div.info-left:first-child > div.info-left-margin > div.rating.bixbox:nth-child(5)
+miku-manga.com##* > div.main-info:first-child > div.info-left:first-child > div.info-left-margin > div.tsinfo.bixbox:last-child
+miku-manga.com##* > div.main-info:first-child > div.info-right:last-child > div.bixbox.image-list:nth-child(2)
+miku-manga.com##* > div.main-info:first-child > div.info-right:last-child > div.ts-breadcrumb.bixbox:last-child
+miku-manga.com##* > div.ts-breadcrumb.bixbox:nth-child(2)
+miku-manga.com##* > img.ts-main-image.lazy.loaded.curdown:last-child
+miku-manga.com###comments
+miku-manga.com###content > div.wrapper > div.bigcover:first-child
+miku-manga.com###content > div.wrapper > div.bigcover:first-child > div.bigbanner.img-blur
+miku-manga.com###content > div.wrapper > div.chapterbody:first-child > div.postarea > div.bixbox:nth-child(2)
+miku-manga.com###content > div.wrapper > div.postbody:nth-child(2) > div.kln:first-child > center
+miku-manga.com###footer
+miku-manga.com###sidebar > div.section:last-child
+miku-manga.com###titlemove > span.alternative:last-child
+moodtoon.com###ads_02
+moodtoon.com###ads_03
+moodtoon.com###ads_04
+moodtoon.com###comments
+moodtoon.com###content > div.blox.mlb.kln:first-child
+moodtoon.com###content > div.wrapper > div.mt-ad.text-center:first-child
 ||movie678.com/*.gif
 ||movie678.com/*.webp
-xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.banner-top:first-child
-xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###page > aside.banner-float:nth-child(3)
-xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto:last-child > div.grid-main > div.main-movie:nth-child(2) > div.bottom-center:nth-child(3)
-xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###secondary > div.banner-right:last-child
-xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###secondary > div.banner-left:last-child
-xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto:last-child > div.grid-main > div.main-movie:nth-child(2) > div.bottom-center:nth-child(6)
-xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto:last-child > div.grid-main > div.main-movie:nth-child(2) > div.playing-movie:nth-child(4) > div.banner-player:first-child
-xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto:last-child > div.grid-main > div.main-movie:nth-child(2) > div.other-movie:last-child
-xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###masthead > div.site-branding:first-child > div.header-info > ul.header-description:nth-child(2)
-xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto > div.index-news:last-child
-||manga689.com/*.gif
-readtoons.net##div.container:nth-child(2)
+murim-manga.com###ads_fix_footer
+murim-manga.com###colophon > div.footercopyright > div.copyright:last-child > center:first-child
+murim-manga.com###comments
+murim-manga.com###content > div.wrapper > div.dessert-frame:first-child
+||murim-manga.com/wp-content/uploads/2022/08/WEBP.webp
 
+! =============== [ N ] ===============
+neko-miku.com##.comment
+neko-miku.com###footer
+neko-miku.com###side
+neko-miku.com###top
+neko-miku.com###welcome
+||neko-miku.com/images/bn/ohoslot-480x500-001.jpg
+||neko-miku.com/images/bn/ohoslot-480x764-001.jpg
+||neko-miku.com/images/bn/ohoslot-825x384-001.jpg
+||neko-miku.com/images/bn/ohoslot-825x491-001.jpg
+||neko-miku.com/images/bn/sagame66-480x480-01.gif
+||neko-miku.com/images/bn/sagame66-830x300-01.gif
+nekopost.net##.text-2xl
+nekopost.net##div:first-child > div.mx-auto.dark\:text-slate-400.mt-16.lg\:mt-0:first-child > div.fixed:nth-child(2) > a:first-child
+nekopost.net##div:first-child > div.mx-auto.dark\:text-slate-400.mt-16.lg\:mt-0:first-child > div.svelte-rn2hpa:nth-child(5)
+nekopost.net##div:first-child > div.mx-auto.dark\:text-slate-400.mt-16.lg\:mt-0:first-child > div.xl\:max-w-\[1320px\].\32 xl\:max-w-\[1420px\].w-full.svelte-otz5v0:nth-child(4) > table.w-full.mt-4.svelte-otz5v0 > tr.svelte-otz5v0 > td.lg\:min-w-\[664px\].lg\:max-w-\[700px\].w-full.lg\:px-4.xl\:px-10.svelte-otz5v0:first-child > div.px-2.lg\:px-0.svelte-otz5v0 > div.mt-4.xl\:mt-16.svelte-otz5v0:last-child
+nekopost.net###readerContent > div.container.mt-0.px-2.md\:px-6.xl\:px-20 > div.container.px-3.lg\:px-5.py-1.rounded-3xl.bg-slate-800:nth-child(4)
+nekopost.net###readerContent > div.container.mt-0.px-2.md\:px-6.xl\:px-20 > div.grid.grid-cols-1.lg\:grid-cols-5.xl\:gap-3:last-child
+nhentai.net##.container.advertisement.advt
+||niceoppai.net/*.gif
+
+! =============== [ O ] ===============
+ok-doujinx.com##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-bottom-sidebar.wp-manga:nth-child(4)
+ok-doujinx.com##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
+ok-doujinx.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(3) > div.c-page-content.style-1.reading-content-wrap.chapter-type-manga > div.content-area > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.main-col-inner:last-child > div.row.c-row.related-manga:last-child
+ok-doujinx.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(3) > div.post-1188.wp-manga.type-wp-manga.status-publish.has-post-thumbnail.hentry.wp-manga-author-updating.wp-manga-artist-updating.wp-manga-genre-manhwa.wp-manga-genre-drama.wp-manga-genre-manhwa-color.wp-manga-genre-romantic-manhwa.wp-manga-genre-hmanhwa > div.c-page-content.style-1:last-child > div.content-area > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.main-col-inner > div.row.c-row.related-manga:last-child
+ok-doujinx.com##div.wrap:first-child > div.body-wrap > footer.site-footer:last-child
+ok-doujinx.com##div.wrap:first-child > div.body-wrap > header.site-header:first-child > div.c-header__top:first-child > div.main-navigation.style-1:last-child > div.container > div.row > div.col-md-12 > div.main-navigation_wrap > div.wrap_branding:first-child
+ok-doujinx.com###block-34 > div.widget__inner.widget_block__inner.c-widget-wrap > div.widget-content
+
+! =============== [ P ] ===============
+plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > a:nth-child(2)
+plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > a:nth-child(3)
+plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > a:nth-child(4) > img.lazy.animated.fadeIn.loaded
+plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > div.row:last-child > div.article__content.col-lg-8:first-child > div.articlecontent__body:first-child > p:nth-child(2)
+plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > div.row:last-child > div.article__content.col-lg-8:first-child > div.articlecontent__comment:nth-child(4)
+plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > div.row:last-child > div.article__content.col-lg-8:first-child > div.mb-4:nth-child(2)
+plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > div.row:last-child > div.article__content.col-lg-8:first-child > div.mb-4:nth-child(3)
+
+! =============== [ R ] ===============
+readtoons.net##div.container:nth-child(2)
+rh2plusmanga.com##code:nth-child(4)
+rh2plusmanga.com##div.ads-float:nth-child(45)
+rh2plusmanga.com##div.ads-float:nth-child(46)
+rh2plusmanga.com##div.wrap:nth-child(3) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+rh2plusmanga.com##div.wrap:nth-child(3) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(4)
+rh2plusmanga.com###main-sidebar > div.widget_text.row:nth-child(3)
+rh2plusmanga.com###main-sidebar > div.widget_text.row:nth-child(4)
+romance-manga.com##a.scrollToTop:nth-child(21)
+romance-manga.com##div.rm-ads:nth-child(4)
+romance-manga.com##footer:nth-child(10)
+romance-manga.com##footer:nth-child(6)
+romance-manga.com##footer:nth-child(6) > div.footertop:first-child
+romance-manga.com##footer:nth-child(8)
+romance-manga.com##main:nth-child(4) > div.content > div.container:last-child > center:nth-child(2)
+romance-manga.com##main:nth-child(4) > div.content > div.container:last-child > h3:first-child
+romance-manga.com##main:nth-child(5) > div.content > div.series > div.container:last-child > div.series-flex > div.series-flexleft:first-child > div.series-info:last-child
+romance-manga.com##main:nth-child(5) > div.content > div.series > div.container:last-child > div.series-flex > div.series-flexright:last-child > div.comment:last-child
+romance-manga.com##main:nth-child(5) > div.content:first-child > div.container:last-child > div.comment.single:last-child
+romance-manga.com##main:nth-child(5) > div.content:first-child > div.container:last-child > div.reader-area:first-child > p > img:last-child
+romance-manga.com##main:nth-child(5) > div.content:first-child > div.info-chapter:nth-child(2)
+romance-manga.com###ads_02
+romance-manga.com###ads_03
+romance-manga.com###navigation
+||romance-manga.com/wp-content/uploads/2022/09/Romance-cover.webp
+||rs.aoxx69.net/image/banner/202011161230105fb20e6276dcb.jpg
+||rs.aoxx69.net/image/banner/202011241152235fbc91872401b.jpg
+||rs.aoxx69.net/image/banner/202011271101085fc07a048debc.jpg
+||rs.aoxx69.net/image/banner/202012051443095fcb3a0d58dee.jpg
+||rs.aoxx69.net/image/banner/202012051443495fcb3a352aaf3.jpg
+||rs.aoxx69.net/image/banner/202012191901065fddeb8206f4f.jpg
+||rs.aoxx69.net/image/banner/202012212022195fe0a18ba8da1.jpg
+||rs.aoxx69.net/image/banner/202012281656225fe9abc6f062c.jpg
+||rs.aoxx69.net/image/banner/202101151211436001240ff0544.jpg
+||rs.aoxx69.net/image/banner/20210127153506601125ba094c8.jpg
+||rs.aoxx69.net/image/banner/20210302002727603d23ffb9e7c.jpg
+||rs.aoxx69.net/image/banner/20210303152510603f47e626de4.jpg
+||rs.aoxx69.net/image/banner/202103041726116040b5c34a146.jpg
+||rs.aoxx69.net/image/banner/20210309122259604706338e3e3.jpg
+||rs.aoxx69.net/image/banner/20210315100941604ecff5f100b.jpg
+||rs.aoxx69.net/image/banner/20210315174951604f3bcf256e0.jpg
+||rs.aoxx69.net/image/banner/202103181057116052cf97546fb.jpg
+rule34video.com##div:first-child > div.wrapper:nth-child(2) > div.footer:nth-child(3)
+rule34video.com###custom_list_videos_videos_list_search_items > div.spot-thumb.thumb:nth-child(16)
+
+! =============== [ S ] ===============
+||sbobet333.com/wp-content/uploads/2020/12/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94.gif
+spankbang.com###container > footer:last-child
+spankbang.com###home > div.channels_scroll_list:first-child
+spankbang.com###home > div.videos:last-child > a.ft-button.ft-grad.more_videos:nth-child(5)
+spankbang.com###home > div.videos:last-child > h2:nth-child(3)
+spankbang.com###home > div.videos:last-child > h2:nth-child(31) > a.h
+syndication.realsrv.com
+
+! =============== [ T ] ===============
+thai-hentai.com##section.font-body.container-fluid:nth-child(4) > div.card.text-white.bg-dark2.container-full:nth-child(7) > div.card-body:last-child > div.card.card-comments.mb-3.wow.fadeIn.bg-dark4:last-child
+thai-hentai.com##section.font-body.container-fluid:nth-child(4) > div.row:nth-child(3) > div.col-12.col-lg-2.desk-display2.text-center:last-child
+thai-hentai.com###footerpage
+thai-hentai.com###speed_sponser
+thaimanga.net##div.ads:nth-child(6)
+thaimanga.net###comments
+toomtam-manga.com###colophon > div.footercopyright > div.copyright:last-child > center:first-child
+toomtam-manga.com###content > div.wrapper > div.dessert-frame:first-child > center
+toomtam-manga.com###post-54894 > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+toomtam-manga.com###sidebar > div.widget_text.section:first-child
+toomtam-manga.com###wbnn
+||toomtam-manga.com/wp-content/uploads/2022/07/2-%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87.webp
+
+! =============== [ W ] ===============
+weimanga.com###colophon > div.footercopyright:last-child
+||weimanga.com/wp-content/uploads/2022/09/wei-cover.webp
+
+! =============== [ X ] ===============
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###masthead > div.site-branding:first-child > div.header-info > ul.header-description:nth-child(2)
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###page > aside.banner-float:nth-child(3)
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.banner-top:first-child
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto > div.index-news:last-child
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto:last-child > div.grid-main > div.main-movie:nth-child(2) > div.bottom-center:nth-child(3)
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto:last-child > div.grid-main > div.main-movie:nth-child(2) > div.bottom-center:nth-child(6)
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto:last-child > div.grid-main > div.main-movie:nth-child(2) > div.other-movie:last-child
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto:last-child > div.grid-main > div.main-movie:nth-child(2) > div.playing-movie:nth-child(4) > div.banner-player:first-child
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###secondary > div.banner-left:last-child
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###secondary > div.banner-right:last-child
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##* > div.uk-container.uk-container-small:last-child > center:last-child
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##* > div.uk-container.uk-container-small:last-child > div.colophon-message-body.column:first-child > center:nth-child(3)
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##div.uk-container.uk-container-expand:nth-child(15)
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##footer.inside-footer:nth-child(18)
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##footer.inside-footer:nth-child(8)
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##footer.inside-footer:nth-child(8) > div.uk-container.uk-container-expand.uk-background-secondary
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##section.uk-section.uk-article:nth-child(16) > hr.uk-divider-icon:last-child
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com##section.uk-section.uk-section-muted:nth-child(17) > div.uk-container > center:first-child
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com###colophon-ets\ extras
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com###slider-f
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com###slider-l
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com###slider-r
+xn--72cmtudp6e8ad1dzef5f7bwc2an.com###slider-r > a:last-child > img
+||xn--72cmtudp6e8ad1dzef5f7bwc2an.com/*.gif
+xn--l3c0azab5a2gta.com##div.ads:nth-child(6)
+xn--l3c0azab5a2gta.com###post-118293 > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+xn--q3cmiag1gmn.com##div.header-ads-section:nth-child(6)
+xn--q3cmiag1gmn.com###post-153857 > div.bixbox.episodedl:nth-child(2) > div.epwrapper > div.epcontent.entry-content:nth-child(4) > button.simplefavorite-button:last-child
+
+! =============== [ Global / Unbound ] ===============
+###manga-header
