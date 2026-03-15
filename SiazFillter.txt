@@ -21,8 +21,6 @@ ok-doujinx.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-chil
 ||img.mangakimi.com/2025/01/3f/CIBYQOPT48-1735919543.jpg
 mangakimi.com##div.mainholder:nth-child(4) > div.header-ads-section:nth-child(3)
 mangakimi.com##div.bixbox:nth-child(3)
-||inu-manga.com/wp-content/uploads/2022/03/logo.png
-inu-manga.com##div.bixbox:nth-child(3)
 
 --01/07/2024--
 
@@ -120,20 +118,11 @@ animeshiro.com###main > div.container.py-3 > div.row > div.col-lg-4.col-xl-3:las
 
 --27/02/2024--
 
-inu-manga.com##.type, .Manhwa
 mangakimi.com##.type, .Manhwa
 mangakimi.com##.colored
-inu-manga.com##.colored
-inu-manga.com##* > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
-inu-manga.com##* > div.ts-breadcrumb.bixbox:nth-child(2)
-inu-manga.com##* > div.chaptertags:last-child
-inu-manga.com###content > div.wrapper > div.chapterbody:first-child > div.postarea > div.bixbox:last-child
 
 --23/02/2024--
 mangakimi.com###post-212177 > div.bixbox:nth-child(3)
-inu-manga.com###sidebar > div.section:last-child
-inu-manga.com###content > div.wrapper > div.postbody:nth-child(2) > div.bixbox:nth-child(3)
-inu-manga.com###content > div.wrapper > div.postbody:nth-child(2) > div.bixbox:last-child
 
 
 --01/01/2024--
@@ -163,7 +152,6 @@ doujin89.com###content > div.wrapper > div.bigcover:first-child
 miku-manga.com###content > div.wrapper > div.bigcover:first-child > div.bigbanner.img-blur
 miku-manga.com###titlemove > span.alternative:last-child
 mangakimi.com###content > div.wrapper > div.bigcover:first-child
-inu-manga.com###content > div.wrapper > div.bigcover:first-child
 miku-manga.com###content > div.wrapper > div.bigcover:first-child
 spankbang.com###home > div.channels_scroll_list:first-child
 spankbang.com###home > div.videos:last-child > h2:nth-child(3)
@@ -260,7 +248,6 @@ mangakimi.com###footer
 
 xn--q3cmiag1gmn.com##div.header-ads-section:nth-child(6)
 xn--q3cmiag1gmn.com###post-153857 > div.bixbox.episodedl:nth-child(2) > div.epwrapper > div.epcontent.entry-content:nth-child(4) > button.simplefavorite-button:last-child
-inu-manga.com##div.mainholder:nth-child(4) > div.header-ads-section:nth-child(3)
 ||romance-manga.com/wp-content/uploads/2022/09/Romance-cover.webp
 
 --13/03/2023--
@@ -584,14 +571,5 @@ xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto:last-child > di
 xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###masthead > div.site-branding:first-child > div.header-info > ul.header-description:nth-child(2)
 xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto > div.index-news:last-child
 ||manga689.com/*.gif
-inu-manga.com##div.mainholder:nth-child(2) > div.header-ads-section:nth-child(3)
-inu-manga.com###post-131534 > div.bixbox:nth-child(3)
-inu-manga.com###comments
-inu-manga.com###footer
-inu-manga.com##a.scrollToTop:nth-child(4)
-inu-manga.com###post-140491 > div.ts-breadcrumb.bixbox:nth-child(2)
-inu-manga.com###post-140491 > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
-inu-manga.com###content > div.wrapper > div.chapterbody:first-child > div.postarea > div.bixbox:nth-child(4)
-inu-manga.com###post-140491 > div.chaptertags:last-child
 readtoons.net##div.container:nth-child(2)
 
