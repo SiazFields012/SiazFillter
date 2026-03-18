@@ -1,7 +1,7 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2K226-03.0 (Sorted)
-! Last modified:  15 Mar 2026
+! Version:        V.2K226-03.01 (Sorted)
+! Last modified:  18 Mar 2026
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
 
@@ -112,6 +112,18 @@ doujin89.com###sidebar > div.widget_text.section:first-child
 eye-manga.com##div.header-ads-section:nth-child(5)
 
 ! =============== [ F ] ===============
+fin-manga.com##.center_finmanga
+fin-manga.com###content > div.wrapper > div.center_finmangasolo:nth-child(14)
+fin-manga.com##div:first-child > h1
+fin-manga.com###sticky-bottom2
+fin-manga.com###sticky-bottom
+fin-manga.com##[id^="post-"] > div.bixbox:nth-child(3)
+fin-manga.com###comments
+fin-manga.com##[id^="post-"] > div.main-info:first-child > div.info-right:last-child > div.ts-breadcrumb.bixbox:last-child
+fin-manga.com###footer
+fin-manga.com##div:nth-child(22)
+fin-manga.com##[id^="post-"] > div.ts-breadcrumb.bixbox:nth-child(2)
+fin-manga.com###content > div.wrapper > div.center_finmangasolo:nth-child(15)
 fairyanime.com##.concise.kosana.animated.bounce
 fairyanime.com###kosana
 fairyanime.net###kosana
