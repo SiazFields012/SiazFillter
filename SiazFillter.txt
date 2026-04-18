@@ -1,7 +1,7 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2K226-03.01 (Sorted)
-! Last modified:  18 Mar 2026
+! Version:        V.2K226-04.01 (Sorted)
+! Last modified:  18 Apr 2026
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
 
@@ -212,6 +212,15 @@ hentaithai.com##.col-12.col-sm-8.col-md-6.col-lg-4
 ||img10.xyz/assets/img/banner-new/MV5.jpg
 ||img10.xyz/assets/img/banner-new/MV6.jpg
 ||img10.xyz/assets/img/banner-new/MV7.jpg
+inu-manga.net##div.mainholder:nth-child(4) > div.header-ads-section:nth-child(3)
+inu-manga.net###comments
+inu-manga.net###footer
+inu-manga.net##[id^="post-"] > div.bixbox:nth-child(3)
+inu-manga.net###content > div.wrapper > div.chapterbody:first-child > div.postarea > div.bixbox:last-child
+inu-manga.net##[id^="post-"] > div.main-info:first-child > div.info-right:last-child > div.ts-breadcrumb.bixbox:last-child
+inu-manga.net##[id^="post-"] > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+inu-manga.net##[id^="post-"] > div.ts-breadcrumb.bixbox:nth-child(2)
+inu-manga.net##[id^="post-"] > div.chaptertags:last-child
 
 ! =============== [ J ] ===============
 jav.guru##.cente
