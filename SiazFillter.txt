@@ -1,7 +1,7 @@
 ! Title:          SiazFillter
 ! Description:    SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version:        V.2K226-04.01 (Sorted)
-! Last modified:  18 Apr 2026
+! Version:        V.2K26-05.01 (Sorted)
+! Last modified:  19 May 2026
 ! Homepage:       github.com/SiazFields012/SiazFillter
 ! Download:       raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
 
@@ -128,6 +128,23 @@ fairyanime.com##.concise.kosana.animated.bounce
 fairyanime.com###kosana
 fairyanime.net###kosana
 ||fwiptv.tv/*.gif
+fin-manga.com##.center_finmangaza
+fin-manga.com##.center_finmanga
+fin-manga.com##.center_finmangasolo
+fin-manga.com###comments
+fin-manga.com##[id^="post-"] > div.bixbox:nth-child(3)
+fin-manga.com###sticky-bottom2
+fin-manga.com###sticky-bottom
+fin-manga.com##div:nth-child(24)
+###footer
+fin-manga.com##[id^="post-"] > div.main-info:first-child > div.info-right:last-child > div.ts-breadcrumb.bixbox:last-child
+fin-manga.com##div:first-child > h1
+fin-manga.com###content > div.wrapper > div.chapterbody:nth-child(18) > div.postarea > b:last-child
+fin-manga.com##b:nth-child(18) > div:nth-child(4)
+fin-manga.com##[id^="post-"] > div.ts-breadcrumb.bixbox:nth-child(2)
+fin-manga.com##[id^="post-"] > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+fin-manga.com##[id^="post-"] > div.chaptertags:last-child
+fin-manga.com##div:nth-child(23)
 
 ! =============== [ G ] ===============
 go-manga.com##* > div.chaptertags:last-child
